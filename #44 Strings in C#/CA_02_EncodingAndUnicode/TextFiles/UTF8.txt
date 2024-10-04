@@ -1,0 +1,2533 @@
+
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <title>اليوم السابع</title>
+    <script type="application/ld+json">
+        {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "url": "https://www.youm7.com/",
+        "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://www.youm7.com/Home/Search?allwords=%D9%85%D8%B5%D8%B1{search_term_string}",
+        "query-input": "required name=search_term_string"
+        }
+        }
+    </script>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" >
+    <meta name='viewport' content='width=1190'>
+    <link href="https://img.youm7.com/images/graphics/favicon.ico" rel="shortcut icon" type="image/x-icon" >
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
+    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+    <meta name="msapplication-TileColor" content="#da532c">
+    <meta name="theme-color" content="#ffffff">
+    <meta name="application-name" content="Youm7" />
+    <meta name="msapplication-starturl" content="https://www.youm7.com" />
+    <meta name="msapplication-tooltip" content="Youm7, the world's most wonderful site" />
+    
+    <link href='/css/textfont/droidarabicnaskh.css' rel='stylesheet' type='text/css'>
+    <link href='/css/textfont/droidarabickufi.css' rel='stylesheet' type='text/css'>
+    
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+    <meta name="description" content="بوابة اليوم السابع الاخبارية تقدم احدث واهم اخبار مصر على مدار اليوم كما نقدم اهم اخبار الرياضة والفن والاقتصاد والحوادث" />
+    <meta name="keywords" content="اليوم السابع,اخبار مصر,اخبار مصرية,اخبار الرياضة,اخبار الفن,اخبار الحوادث,اخبار الصحة,مراة ومنوعات,حظك اليوم,اخبار الاقتصاد" />
+    <link rel="canonical" href="https://www.youm7.com" />
+    <link rel="alternate" href="https://m.youm7.com" />
+    <meta property="og:locale" content="ar_AR" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="اليوم السابع" />
+    <meta property="og:description" content="بوابة اليوم السابع الاخبارية تقدم احدث واهم اخبار مصر على مدار اليوم كما نقدم اهم اخبار الرياضة والفن والاقتصاد والحوادث" />
+    <meta property="og:url" content="https://www.youm7.com" />
+    <meta property="og:site_name" content="اليوم السابع" />
+    <meta property="fb:app_id" content="1719209038322750" />
+    <meta property="og:image" content="https://img.youm7.com/images/graphics/youm7socailshareicon2017.png" >
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:description" content="بوابة اليوم السابع الاخبارية تقدم احدث واهم اخبار مصر على مدار اليوم كما نقدم اهم اخبار الرياضة والفن والاقتصاد والحوادث" />
+    <meta name="twitter:title" content="اليوم السابع" />
+    <meta name="twitter:image" content="https://img.youm7.com/images/graphics/youm7socailshareicon2017.png" />
+	<meta name='dailymotion-domain-verification' content='dmu1hqeqxg5nq7q8n' />
+    <link href="/bundle/Mainstyles?X=FinalversionElectionfinaldsdsdsds" rel="stylesheet"/>
+
+    <link href='/content/style.css?Z=Versioncss34frtgvgghkjhkjhjkhjkh' media="all" rel='stylesheet' type='text/css'>
+    <link href='/content/style_navigation.css?X=Versioncss34frtgvgghkjhkjhjkhjkh' media="all" rel='stylesheet' type='text/css'>
+    <link href='/content/swiper.css?X=Versioncss34frtgvgghkjhkjhjkhjkh' media="all" rel='stylesheet' type='text/css'>
+	
+	
+
+    
+    <script src="/bundle/Headcript2?X=FinalversionElectionfinal2343"></script>
+
+    
+	
+	
+	
+		<!-- Start Google Analytics Final  -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=G-J7S2SZJ3N7"></script>
+		<script>
+		  window.dataLayer = window.dataLayer || [];
+		  function gtag(){dataLayer.push(arguments);}
+		  gtag('js', new Date());
+
+		  gtag('config', 'G-J7S2SZJ3N7');
+		</script>
+		<!-- End Google Analytics Final  -->
+		
+		
+		<!-- Google tag (gtag.js) Migrate Throw system -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=G-H8MKMTR56J"></script>
+		<script>
+		  window.dataLayer = window.dataLayer || [];
+		  function gtag(){dataLayer.push(arguments);}
+		  gtag('js', new Date());
+
+		  gtag('config', 'G-H8MKMTR56J');
+		</script>
+		<!-- Google tag (gtag.js) Migrate Throw system -->
+	
+	
+
+		<!-- Adrecovery-->
+		<script data-cfasync="false" type="text/javascript">(function(w, d) { var s = d.createElement("script"); s.src = "//delivery.adrecover.com/44296/adRecover.js"; s.type = "text/javascript"; s.async = true; (d.getElementsByTagName("head")[0] || d.getElementsByTagName("body")[0]).appendChild(s); })(window, document);</script>
+
+
+<script> !(function () { window.googletag = window.googletag || {}; window.vmpbjs = window.vmpbjs || {}; window.vpb = window.vpb || {}; vpb.fastLoad = true; googletag.cmd = googletag.cmd || []; vmpbjs.cmd = vmpbjs.cmd || []; var cmds = []; try{ cmds = googletag.cmd.slice(0); googletag.cmd.length = 0; }catch(e){} var ready = false; function exec(cb) { return cb.call(googletag); } var overriden = false; googletag.cmd.push(function () { overriden = true; googletag.cmd.unshift = function (cb) { if (ready) { return exec(cb); } cmds.unshift(cb); if (cb._startgpt) { ready = true; for (var k = 0; k < cmds.length; k++) { exec(cmds[k]); } } }; googletag.cmd.push = function (cb) { if (ready) { return exec(cb); } cmds.push(cb); }; }); if(!overriden){ googletag.cmd.push = function (cb) { cmds.push(cb); }; googletag.cmd.unshift = function (cb) { cmds.unshift(cb); if (cb._startgpt) { ready = true; if (googletag.apiReady) { cmds.forEach(function (cb) { googletag.cmd.push(cb); }); } else { googletag.cmd = cmds; } } }; } var dayMs = 36e5, cb = parseInt(Date.now() / dayMs), vpbSrc = '//player.adtcdn.com/prebidlink/' + cb + '/wrapper_hb_450996_11982.js', pbSrc = vpbSrc.replace('wrapper_hb', 'hb'), gptSrc = '//securepubads.g.doubleclick.net/tag/js/gpt.js', c = document.head || document.body || document.documentElement; function loadScript(src, cb) { var s = document.createElement('script'); s.src = src; s.defer=false; c.appendChild(s); s.onload = cb; s.onerror = function(){ var fn = function(){}; fn._startgpt = true; googletag.cmd.unshift(fn); }; return s; } loadScript(pbSrc); loadScript(gptSrc); loadScript(vpbSrc); })() </script>
+ 
+
+
+
+
+
+	 <meta property="fb:pages" content="133880733349264" />
+
+    <script async="async" src="https://securepubads.g.doubleclick.net/tag/js/gpt.js">
+
+
+            <script>
+                var googletag = googletag || {};
+                googletag.cmd = googletag.cmd || [];
+    </script>
+
+    <script>
+              googletag.cmd.push(function() {
+                googletag.defineSlot('/21823462148/Youm7-Widget-HP', [[468, 60], [468, 110]], 'div-gpt-ad-1559563374250-0').addService(googletag.pubads());
+                googletag.defineSlot('/21823462148/Youm7-TakeOver-HP-R', [[160, 600], [130, 600]], 'div-gpt-ad-1559747947800-0').addService(googletag.pubads());
+                googletag.defineSlot('/21823462148/Youm7-TakeOver-HP-L', [[130, 600], [160, 600]], 'div-gpt-ad-1559564788698-0').addService(googletag.pubads());
+                googletag.defineSlot('/21823462148/Youm7-Leaderboard-HP', ['fluid', [728, 90]], 'div-gpt-ad-1559434773218-0').addService(googletag.pubads());
+                googletag.defineSlot('/21823462148/Youm7-MPU-HP-1', ['fluid', [300, 250], [336, 280], [250, 250]], 'div-gpt-ad-1600961287759-0').addService(googletag.pubads());
+                googletag.defineSlot('/21823462148/Youm7-MPU-HP-2', [[250, 250], [336, 280], [300, 600], 'fluid', [300, 250], [200, 200]], 'div-gpt-ad-1559748730463-0').addService(googletag.pubads());
+
+                googletag.defineSlot('/21823462148/Youm7-Leaderboard-HP-2', ['fluid', [728, 90], [970, 90], [970, 250]], 'div-gpt-ad-1559749015733-0').addService(googletag.pubads());
+
+                //googletag.pubads().enableSingleRequest();
+                googletag.enableServices();
+              });
+    </script>
+
+    <!-- DFP POD End -->
+
+
+
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MP7CXZG');</script>
+<!-- End Google Tag Manager -->
+
+
+<!--Project Agora -->
+<script async src="//pahtag.tech/c/pod_youm7.js"></script>
+
+
+<!--<script type="text/javascript" async src="//c.pubguru.net/pg.youm7.com.js"></script>-->
+
+
+<!-- Taboola -->
+<script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({homepage:'auto'});
+  !function (e, f, u, i) {
+    if (!document.getElementById(i)){
+      e.async = 1;
+      e.src = u;
+      e.id = i;
+      f.parentNode.insertBefore(e, f);
+    }
+  }(document.createElement('script'),
+  document.getElementsByTagName('script')[0],
+  '//cdn.taboola.com/libtrc/podegypt-network/loader.js',
+  'tb_loader_script');
+  if(window.performance && typeof window.performance.mark == 'function')
+    {window.performance.mark('tbl_ic');}
+</script>
+
+
+</head>
+<body class="main-container">
+
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MP7CXZG"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+   
+    <!--Header-->
+    <header class="row headerCont">
+
+        <div class="row marigin0 headerNewNew">
+            <div class="header">
+                <!--First Menu-->
+                <div class="firstMenu">
+                    <div class="container-new-menu">
+                        <div class="fixedMenMen" style="position:relative;">
+                            <div class="container-navigation">
+                                <div>
+                                    
+                                    <!--<img src="https://www.youm7.com/images/newHeader/our-website.png" class="ourWebsites">-->
+                                    
+
+                                    <div class="flexslider">
+                                        <div class="swiper-f">
+                                            <div class="swiper-wrapper">
+
+
+                                                
+
+
+                                                
+												
+												<div class="swiper-slide">
+                                                    <a href="https://www.youm7.com/" target="_self">
+                                                        <img class="img-responsive slider-img" alt="اليوم السابع" src="https://img.youm7.com/ArticleImgs/2020/2/26/8847-youm7logofixed.png" width="140px" height="32px" >
+                                                    </a>
+                                                </div>
+
+
+                                                
+
+                                                
+
+                                                
+
+
+                                                
+
+
+
+
+
+
+
+
+
+
+                                                
+                                                
+
+                                                
+                                                <div class="swiper-slide">
+                                                    <a href="https://www.youm7.com/home/advert" >
+                                                        <img class="img-responsive slider-img" alt="Ads" src="/images/newHeader/ad.png" width="83px" height="30px">
+                                                        
+                                                    </a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <span class="date-header"><i class="fa fa-calendar" aria-hidden="true"></i> الثلاثاء، 24 سبتمبر 2024  <i class="fa fa-clock-o" aria-hidden="true"></i> 06:22 م </span>
+                                </div>
+                                <div class="clear"></div>
+                            </div>
+                            <div class="clear"></div>
+                        </div>
+                    </div>
+                </div>
+                <!--Second Menu-->
+                <nav class="secondMenu ">
+                    <div class="container">
+                        <ul class="newHeaderLmenu">
+                            <li class="homeIco"><a href="/"><h2><i class="fa fa-home" aria-hidden="true"></i>الرئيسية</h2></a></li>
+                            <li><a href="/Section/أخبار-عاجلة/65/1"> <h2>عاجل</h2> </a></li>
+                            <li><a href="/Section/سياسة/319/1"> <h2>سياسة</h2> </a></li>
+                            <li><a href="/Section/تقارير-مصرية/97/1"> <h2>تقارير</h2> </a></li>
+                            <li><a href="/Section/حوادث/203/1"> <h2>حوادث</h2> </a></li>
+							
+							  
+							  
+							 
+							 <li><a href="/Section/أخبار-عربية/88/1"> <h2>عرب</h2> </a></li>
+							 <li><a href="/Section/أخبار-عالمية/286/1"> <h2>عالم</h2> </a></li>
+							  <li><a href="https://natega.youm7.com/"> <h2>الثانوية العامة</h2> </a></li>
+							 
+							
+							<li><a href="/Section/تحقيقات-وملفات/12/1"> <h2>تحقيقات</h2> </a></li>
+							
+							<!--<li><a href="https://www.youm7.com/%D9%83%D8%A3%D8%B3-%D8%A3%D9%85%D9%85-%D8%A3%D9%81%D8%B1%D9%8A%D9%82%D9%8A%D8%A7"> <h2>أمم أفريقيا 2023</h2> </a></li>-->
+							
+                            <li><a href="/Section/اقتصاد-وبورصة/297/1"> <h2>اقتصاد</h2> </a></li>
+                            
+                            
+                            
+                            
+                           <li><a href="/Section/أخبار-الرياضة/298/1"> <h2>رياضة</h2> </a></li>
+                            <!--<li><a href="/Section/عقارات/341/1"> <h2>عقارات</h2> </a></li>-->
+
+                            <li><a href="/Section/كرة-عالمية/332/1"> <h2>كرة عالمية</h2> </a></li>
+                            
+                            
+                           
+                            <li class="dropMenu">
+                                <a href="#" rel="nofollow" class="drop-a-down"><h2>المزيد</h2></a>
+                                <ul class="bigMenu">
+
+									
+
+									<li><a href="https://www.youm7.com/videos"> <h2>تليفزيون</h2> </a></li>
+                                    <li><a href="/Section/كاريكاتير-اليوم/192/1"> <h2>كاريكاتير</h2> </a></li>
+                                    <li><a href="/Section/فن/48/1"> <h2>فن</h2> </a></li>
+									<li><a href="/Section/حظك-اليوم/330/1"> <h2>حظك اليوم</h2> </a></li>
+                                    <li><a href="/Section/تليفزيون/251/1"> <h2>تليفزيون</h2> </a></li>
+                                    <li><a href="/Section/ثقافة/94/1"> <h2>ثقافة</h2> </a></li>
+                                    <li><a href="/Section/المرأة-والمنوعات/89/1"> <h2>مرأة و منوعات</h2> </a></li>
+                                    <li><a href="/Section/صحة-وطب/245/1"> <h2>صحة</h2> </a></li>
+                                    <li><a href="/Section/ألبومات-اليوم-السابع/291/1"> <h2>ألبومات</h2> </a></li>
+                                    <li><a href="/Editor/Alleditors"> <h2>مقالات</h2> </a></li>
+                                    <li><a href="/Section/علوم-و-تكنولوجيا/328/1"> <h2>تكنولوجيا</h2> </a></li>
+                                    <li><a href="/Section/أخبار-المحافظات/296/1"> <h2>محافظات</h2> </a></li>
+                                    <li><a href="/Section/فيديو-7/355/1"><h2>فيديو 7</h2></a></li>
+                                    
+                                    <!--<li><a href="https://thecairopost.youm7.com" target="_blank"><h2>النسخة الإنجليزية</h2></a></li>-->
+                                </ul>
+                            </li>
+                        </ul>
+                    </div>
+                </nav>
+            </div>
+        </div>
+        <!--Second Menu-->
+        <!--logo-->
+        <div class="row logoContBg">
+            <!--Logo Row-->
+            <div class="logoCont container">
+                <div class="logo col-xs-3">
+                    <a href="/home/index">
+					
+					
+
+						
+						
+					
+					
+						
+						
+						<img src="https://img.youm7.com/images/graphics/logoyoum7.png" width="225px" height="65px" alt="اليوم السابع" class="img-responsive" />
+
+						
+						
+						
+						
+						
+						
+					
+                        
+                        
+
+                        
+						
+					
+						
+					   
+					    
+					   
+					    
+					   
+						
+						
+						
+					   
+						
+					   
+					    
+		
+						
+						
+						
+
+                        
+
+                        
+
+                        
+						
+						
+						
+					
+                </div>
+                <div class="chief col-xs-3 ">
+                    <img src="/images/tarwesadesktop2023.png" alt="أكرم القصاص - علا الشافعي" width="165px" height="104px" class="img-responsive" />
+
+                    
+                    <!--<img src="https://img.youm7.com/images/graphics/ramadan2018.jpg" alt="خالد صلاح" class="img-responsive1" />-->
+                </div>
+				
+				<center>
+				
+					<!--leaderBoard-->
+					<div class="logoAdv col-xs-7 ">
+						 
+
+
+
+
+<!-- /21823462148/Youm7-Widget-HP -->
+<div id='div-gpt-ad-1559563374250-0'>
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1559563374250-0'); });
+</script>
+</div>
+						<pubguru data-pg-ad="youm7_468x110" >
+					</div>
+				</center>
+            </div>
+        </div>
+        <!--Ticker And Search Start-->
+        <div class="row tickerAndSearch">
+            <div class="container">
+                <!--Ticker-->
+                <div class="col-xs-8 ticker">
+                    <div id="nt-title-container">
+                        <a href="https://plus.youm7.com/" class="tickersIco" target="_blank" rel="nofollow">
+                            <img src="/images/tickerTitleAni.gif"  width="85px" height="31px"  alt="اليوم السابع بلس" title="اليوم السابع بلس" class="img-responsive" />
+                        </a>
+                        <ul id="nt-title">
+        <li>
+            <h3>
+                    <a href="/story/2024/9/24/من-هو-إبراهيم-القبيسى-القيادى-بحزب-الله-التى-زعمت-إسرائيل/6718617" >من هو إبراهيم القبيسى القيادى بحزب الله التى زعمت إسرائيل اغتياله؟</a>
+               
+            </h3>
+        </li>
+        <li>
+            <h3>
+                    <a href="/story/2024/9/24/محلل-سياسى-لبنانى-إسرائيل-تسير-نحو-مزيد-من-التصعيد-والقطاع/6718609" >محلل سياسى لبنانى: إسرائيل تسير نحو مزيد من التصعيد.. والقطاع الصحى يعانى</a>
+               
+            </h3>
+        </li>
+        <li>
+            <h3>
+                    <a href="/story/2024/9/24/رئيس-الوزراء-قضايا-الأمن-السيبرانى-أصبحت-أساسية-فى-منظومة-الأمن/6718607" >رئيس الوزراء: قضايا الأمن السيبرانى أصبحت أساسية فى منظومة الأمن القومى للدول</a>
+               
+            </h3>
+        </li>
+        <li>
+            <h3>
+                    <a href="/story/2024/9/24/رئيس-الوزراء-يترأس-اجتماع-المجلس-الأعلى-للأمن-السيبرانى/6718606" >رئيس الوزراء يترأس اجتماع المجلس الأعلى للأمن السيبرانى</a>
+               
+            </h3>
+        </li>
+        <li>
+            <h3>
+                    <a href="/story/2024/9/24/جيش-الاحتلال-يعلن-اغتيال-على-القبيسى-قائد-منظومة-الصواريخ-فى/6718604" >جيش الاحتلال يعلن اغتيال على القبيسى قائد منظومة الصواريخ فى حزب الله</a>
+               
+            </h3>
+        </li>
+        <li>
+            <h3>
+                    <a href="/story/2024/9/24/بايدن-يوجه-رسالة-للسودانيين-أوقفوا-الحرب-أوقفوا-تدمير-بلادكم/6718589" >بايدن يوجه رسالة للسودانيين: أوقفوا الحرب.. أوقفوا تدمير بلادكم</a>
+               
+            </h3>
+        </li>
+        <li>
+            <h3>
+                    <a href="/story/2024/9/24/الرئيس-الأمريكى-الذكاء-الاصطناعى-سيغير-أساليب-الحياة-وخوض-الحروب/6718595" >الرئيس الأمريكى: الذكاء الاصطناعى سيغير أساليب الحياة وخوض الحروب</a>
+               
+            </h3>
+        </li>
+        <li>
+            <h3>
+                    <a href="/story/2024/9/24/رئيس-الوزراء-يُتابع-جهود-تحلية-مياه-البحر/6718587" >رئيس الوزراء يُتابع جهود تحلية مياه البحر</a>
+               
+            </h3>
+        </li>
+        <li>
+            <h3>
+                    <a href="/story/2024/9/24/الرئيس-الأمريكى-يجب-العمل-على-إقامة-دولة-فلسطينية-مستقلة/6718586" >الرئيس الأمريكى: يجب العمل على إقامة دولة فلسطينية مستقلة</a>
+               
+            </h3>
+        </li>
+        <li>
+            <h3>
+                    <a href="/story/2024/9/24/بايدن-لم-نفقد-الأمل-فى-تحقيق-السلام-بالشرق-الأوسط/6718571" >بايدن: لم نفقد الأمل فى تحقيق السلام بالشرق الأوسط</a>
+               
+            </h3>
+        </li>
+    
+   
+</ul>
+                        <a href="/rss/rss" class="rssIco" target="_blank">
+                            <img src="/images/tickerRSS.gif" width="36px" height="31px"  alt="اليوم السابع RSS" title="اليوم السابع RSS" class="img-responsive" />
+                        </a>
+                    </div>
+                </div>
+                <!--Search-->
+                <div class="col-xs-4   searchCont">
+                    <form action="/Home/Search">
+                        <div class="input-group">
+                            <button class="btn btn-search" type="button">
+                                <img src="/images/searchButtonBG.gif" width="54px" height="22px" alt="بحث اليوم السابع" title="بحث اليوم السابع" class="img-responsive" />
+                            </button>
+                            <input type="text" name="allwords" class="search-query form-control" placeholder="" />
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+        <!--Ticker And Search End-->
+    </header>
+    <!--Header End-->
+    <!--Body start-->
+    
+    
+
+
+<input id="Random" name="Random" type="hidden" value="11" />
+<main class="container bodyCon">
+    <!--Left ads-->
+    <div class="leftAdsFix   ">
+         
+
+
+<!-- /21823462148/Youm7-TakeOver-HP-L -->
+<div id='div-gpt-ad-1559564788698-0'>
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1559564788698-0'); });
+</script>
+</div>
+		<pubguru data-pg-ad="youm7_160x600" >
+    </div>
+    <!--Right ads-->
+    <div class="rightAdsFix  ">
+         
+
+<!-- /21823462148/Youm7-TakeOver-HP-R -->
+<div id='div-gpt-ad-1559747947800-0'>
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1559747947800-0'); });
+</script>
+</div>
+
+
+
+
+		<pubguru data-pg-ad="youm7_160x600" >
+    </div>
+    
+	<center>
+	
+	<div class="row leaderBoard1 ">
+         
+<Center>
+
+
+<!-- /21823462148/Youm7-Leaderboard-HP -->
+<div id='div-gpt-ad-1559434773218-0' style='height:90px; width:728px;'>
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1559434773218-0'); });
+</script>
+</div>
+
+</Center>
+		<pubguru data-pg-ad="youm7_728x90" >
+    </div>
+	
+
+	</center>
+	
+    <!--2017 Vote -->
+    
+
+    <!--2017 Vote -->
+    <div class="row bodyCC">
+        <div class="container">
+            <!--Slider and Mid-Adv Start-->
+            <div class="row slider-and-adv">
+                <!--Slider-->
+                <div class="col-xs-8  slider-cont">
+                    
+<div class="display-width">
+    <div id="slider">
+        <div id="mainNews">
+                <div class="newsInfo" id="news1">
+                    <div class="image">
+                        <a href="/story/2024/9/24/رئيس-الوزراء-قضايا-الأمن-السيبرانى-أصبحت-أساسية-بمنظومة-الأمن-القومى/6718607">
+                            <img src="https://img.youm7.com/large/202409240530123012.jpg" data-src="https://img.youm7.com/large/202409240530123012.jpg" width="380px" height="200px" alt="رئيس الوزراء خلال الاجتماع" title="رئيس الوزراء خلال الاجتماع" onerror="this.src='https://img.youm7.com/images/graphics/erorr-img-large.jpg'" />
+                        </a>
+                    </div>
+                    <div class="label1">
+                        <h3>
+                            <a href="/story/2024/9/24/رئيس-الوزراء-قضايا-الأمن-السيبرانى-أصبحت-أساسية-بمنظومة-الأمن-القومى/6718607">
+                                 ترأس الدكتور مصطفى مدبولي، رئيس مجلس الوزراء، اليوم، بمقر الحكومة بالعاصمة الإدارية الجديدة، اجتماع المجلس الأعلى للأمن السيبراني، وذلك بحضور الدكتور عمرو طلعت، وزير الاتصالات وتكنولوجيا المعلومات
+                            </a>
+                        </h3>
+                    </div>
+                </div>
+                <div class="newsInfo" id="news2">
+                    <div class="image">
+                        <a href="/story/2024/9/24/جيش-الاحتلال-يعلن-اغتيال-القبيسى-قائد-منظومة-الصواريخ-فى-حزب/6718604">
+                            <img src="https://img.youm7.com/large/202409240541254125.jpg" data-src="https://img.youm7.com/large/202409240541254125.jpg" width="380px" height="200px" alt="قصف لبنان" title="قصف لبنان" onerror="this.src='https://img.youm7.com/images/graphics/erorr-img-large.jpg'" />
+                        </a>
+                    </div>
+                    <div class="label1">
+                        <h3>
+                            <a href="/story/2024/9/24/جيش-الاحتلال-يعلن-اغتيال-القبيسى-قائد-منظومة-الصواريخ-فى-حزب/6718604">
+                                زعم جيش الاحتلال الإسرائيلى، اغتيال على إبراهيم محمد القبيسى، قائد منظومة الصواريخ والقذائف فى حزب الله اللبناني..
+                            </a>
+                        </h3>
+                    </div>
+                </div>
+                <div class="newsInfo" id="news3">
+                    <div class="image">
+                        <a href="/story/2024/9/24/بايدن-يوجه-رسالة-للسودانيين-أوقفوا-الحرب-أوقفوا-تدمير-بلادكم/6718589">
+                            <img src="https://img.youm7.com/large/20230415033704374.jpg" data-src="https://img.youm7.com/large/20230415033704374.jpg" width="380px" height="200px" alt="جو بايدن" title="جو بايدن" onerror="this.src='https://img.youm7.com/images/graphics/erorr-img-large.jpg'" />
+                        </a>
+                    </div>
+                    <div class="label1">
+                        <h3>
+                            <a href="/story/2024/9/24/بايدن-يوجه-رسالة-للسودانيين-أوقفوا-الحرب-أوقفوا-تدمير-بلادكم/6718589">
+                                قال الرئيس الأمريكي جو بايدن، إن بلاده مصممة على منع اندلاع حرب أوسع في منطقة الشرق الأوسط بأكملها.
+                            </a>
+                        </h3>
+                    </div>
+                </div>
+                <div class="newsInfo" id="news4">
+                    <div class="image">
+                        <a href="/story/2024/9/24/رئيس-الوزراء-يُتابع-جهود-تحلية-مياه-البحر/6718587">
+                            <img src="https://img.youm7.com/large/202409240530123012.jpg" data-src="https://img.youm7.com/large/202409240530123012.jpg" width="380px" height="200px" alt="اجتماع رئيس مجلس الوزراء " title="اجتماع رئيس مجلس الوزراء " onerror="this.src='https://img.youm7.com/images/graphics/erorr-img-large.jpg'" />
+                        </a>
+                    </div>
+                    <div class="label1">
+                        <h3>
+                            <a href="/story/2024/9/24/رئيس-الوزراء-يُتابع-جهود-تحلية-مياه-البحر/6718587">
+                                عقد الدكتور مصطفى مدبولى، رئيس مجلس الوزراء، اليوم؛ اجتماعًا بشأن متابعة جهود تحلية مياه البحر، وذلك بحضور كل من الدكتور هانى سويلم، وزير الموارد المائية والرى..
+                            </a>
+                        </h3>
+                    </div>
+                </div>
+        </div>
+        <div id="subNews">
+                <div class="newsLinks" id="newsLink1" onclick="showSlide(1)">
+                    <h3>رئيس الوزراء: قضايا الأمن السيبرانى أصبحت أساسية بمنظومة الأمن القومى للدول</h3>
+                </div>
+                <div class="newsLinks" id="newsLink2" onclick="showSlide(2)">
+                    <h3>جيش الاحتلال يعلن اغتيال "القبيسى" قائد منظومة الصواريخ فى حزب الله</h3>
+                </div>
+                <div class="newsLinks" id="newsLink3" onclick="showSlide(3)">
+                    <h3>بايدن يوجه رسالة للسودانيين: أوقفوا الحرب.. أوقفوا تدمير بلادكم</h3>
+                </div>
+                <div class="newsLinks" id="newsLink4" onclick="showSlide(4)">
+                    <h3>رئيس الوزراء يُتابع جهود تحلية مياه البحر</h3>
+                </div>
+        </div>
+        
+    </div>
+</div>
+ <script src="/Scripts/FirstSlider.js"></script>
+
+     
+ 
+
+
+
+                </div>
+                <!--MidumRet Adv-->
+                <div class="col-xs-4  midAdv-cont">
+                     
+
+
+<!-- /21823462148/Youm7-MPU-HP-1 -->
+<div id='div-gpt-ad-1600961287759-0' style='width: 300px; height: 250px;'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1600961287759-0'); });
+  </script>
+</div>
+					<pubguru data-pg-ad="youm7_300x250" >
+                </div>
+            </div>
+
+            <!--3agel-->
+            <div class="row agel-cont">
+                <div class="col-xs-12 ">
+                    
+<div class="mosCont">
+    <div class="bulletsSlider">
+        <label class="Bullet_label" data-count="1">1</label>
+        <label class="Bullet_label" data-count="2">2</label>
+        <label class="Bullet_label" data-count="3">3</label>
+        <label class="Bullet_label activeBullet" data-count="4">4</label>
+        <label class="Bullet_label" data-count="5">5</label>
+        <label class="Bullet_label" data-count="6">6</label>
+        <label class="Bullet_label" data-count="7">7</label>
+        <label class="Bullet_label" data-count="8">8</label>
+        <label class="Bullet_label" data-count="9">9</label>
+        <label class="Bullet_label" data-count="10">10</label>
+        <label class="Bullet_label" data-count="11">11</label>
+        <label class="Bullet_label" data-count="12">12</label>
+        <label class="Bullet_label" data-count="13">13</label>
+    </div>
+    <div class="SliderUpDiv">
+        <div id="PlayControls">
+            <div id="TopNewsDecreaseSpeed" title="تقليل سرعة العرض" class="TopNewsDecreaseSpeed"></div>
+            <div id="TopNewsPlay" title="أيقاف" class="TopNewsPlay"></div>
+            <div id="TopNewsIncreaseSpeed" title="زيادة سرعة العرض" class="TopNewsIncreaseSpeed"></div>
+        </div>
+
+    </div>
+    <div id="TopNewsDiv" class="TopNewsDiv">
+                <div class="SingleNewDiv">
+                    <a target="_blank" href="/story/2024/9/24/من-هو-إبراهيم-القبيسى-القيادى-بحزب-الله-التى-زعمت-إسرائيل/6718617">
+                        <div class="TopNewNewsLink" title="من هو إبراهيم القبيسى القيادى بحزب الله التى زعمت إسرائيل اغتياله؟" style="right: 10px;"></div>
+                    </a>
+                    <img border="0" data-count="1" data-href="/story/2024/9/24/من-هو-إبراهيم-القبيسى-القيادى-بحزب-الله-التى-زعمت-إسرائيل/6718617" src="https://img.youm7.com/medium/202409240540284028.jpg" imagepath="bx_loader.gif" newtitle="من هو إبراهيم القبيسى القيادى بحزب الله التى زعمت إسرائيل اغتياله؟" class="TopNewsImg1" alt="من هو إبراهيم القبيسى القيادى بحزب الله التى زعمت إسرائيل اغتياله؟" onerror="this.src='https://img.youm7.com/images/graphics/erorr-img-med.jpg'" />
+                    <a target="_blank" href="/story/2024/9/24/من-هو-إبراهيم-القبيسى-القيادى-بحزب-الله-التى-زعمت-إسرائيل/6718617"><span class="img-count-link">1</span></a>
+                </div>
+                <div class="SingleNewDiv">
+                    <a target="_blank" href="/story/2024/9/24/الرئيس-الأمريكى-الذكاء-الاصطناعى-سيغير-أساليب-الحياة-وخوض-الحروب/6718595">
+                        <div class="TopNewNewsLink" title="الرئيس الأمريكى: الذكاء الاصطناعى سيغير أساليب الحياة وخوض الحروب" style="right: 10px;"></div>
+                    </a>
+                    <img border="0" data-count="2" data-href="/story/2024/9/24/الرئيس-الأمريكى-الذكاء-الاصطناعى-سيغير-أساليب-الحياة-وخوض-الحروب/6718595" src="https://img.youm7.com/medium/202303130951125112.jpg" imagepath="bx_loader.gif" newtitle="الرئيس الأمريكى: الذكاء الاصطناعى سيغير أساليب الحياة وخوض الحروب" class="TopNewsImg1" alt="الرئيس الأمريكى: الذكاء الاصطناعى سيغير أساليب الحياة وخوض الحروب" onerror="this.src='https://img.youm7.com/images/graphics/erorr-img-med.jpg'" />
+                    <a target="_blank" href="/story/2024/9/24/الرئيس-الأمريكى-الذكاء-الاصطناعى-سيغير-أساليب-الحياة-وخوض-الحروب/6718595"><span class="img-count-link">2</span></a>
+                </div>
+                <div class="SingleNewDiv">
+                    <a target="_blank" href="/story/2024/9/24/رئيس-الوزراء-يترأس-اجتماع-المجلس-الأعلى-للأمن-السيبرانى/6718606">
+                        <div class="TopNewNewsLink" title="رئيس الوزراء يترأس اجتماع المجلس الأعلى للأمن السيبرانى" style="right: 10px;"></div>
+                    </a>
+                    <img border="0" data-count="3" data-href="/story/2024/9/24/رئيس-الوزراء-يترأس-اجتماع-المجلس-الأعلى-للأمن-السيبرانى/6718606" src="https://img.youm7.com/medium/202409240530123012.jpg" imagepath="bx_loader.gif" newtitle="رئيس الوزراء يترأس اجتماع المجلس الأعلى للأمن السيبرانى" class="TopNewsImg1" alt="رئيس الوزراء يترأس اجتماع المجلس الأعلى للأمن السيبرانى" onerror="this.src='https://img.youm7.com/images/graphics/erorr-img-med.jpg'" />
+                    <a target="_blank" href="/story/2024/9/24/رئيس-الوزراء-يترأس-اجتماع-المجلس-الأعلى-للأمن-السيبرانى/6718606"><span class="img-count-link">3</span></a>
+                </div>
+                <div class="SingleNewDiv Border-Img">
+                    <a target="_blank" href="/story/2024/9/24/الرئيس-الأمريكى-يجب-العمل-على-إقامة-دولة-فلسطينية-مستقلة/6718586">
+                        <div class="TopNewNewsLink" title="الرئيس الأمريكى: يجب العمل على إقامة دولة فلسطينية مستقلة" style="right: 10px;"></div>
+                    </a>
+                    <img border="0" data-count="4" data-href="/story/2024/9/24/الرئيس-الأمريكى-يجب-العمل-على-إقامة-دولة-فلسطينية-مستقلة/6718586" src="https://img.youm7.com/medium/202402090748534853.jpg" imagepath="bx_loader.gif" newtitle="الرئيس الأمريكى: يجب العمل على إقامة دولة فلسطينية مستقلة" class="TopNewsImg1" alt="الرئيس الأمريكى: يجب العمل على إقامة دولة فلسطينية مستقلة" onerror="this.src='https://img.youm7.com/images/graphics/erorr-img-med.jpg'" />
+                    <a target="_blank" href="/story/2024/9/24/الرئيس-الأمريكى-يجب-العمل-على-إقامة-دولة-فلسطينية-مستقلة/6718586"><span class="img-count-link activeImg">4</span></a>
+                </div>
+                <div class="SingleNewDiv">
+                    <a target="_blank" href="/story/2024/9/24/وزير-الخارجية-يبحث-مع-نظيرته-الألمانية-مساعى-التوصل-لوقف-إطلاق/6718572">
+                        <div class="TopNewNewsLink" title="وزير الخارجية يبحث مع نظيرته الألمانية مساعى التوصل لوقف إطلاق النار بغزة" style="right: 10px;"></div>
+                    </a>
+                    <img border="0" data-count="5" data-href="/story/2024/9/24/وزير-الخارجية-يبحث-مع-نظيرته-الألمانية-مساعى-التوصل-لوقف-إطلاق/6718572" src="https://img.youm7.com/medium/202409240516271627.jpg" imagepath="bx_loader.gif" newtitle="وزير الخارجية يبحث مع نظيرته الألمانية مساعى التوصل لوقف إطلاق النار بغزة" class="TopNewsImg1" alt="وزير الخارجية يبحث مع نظيرته الألمانية مساعى التوصل لوقف إطلاق النار بغزة" onerror="this.src='https://img.youm7.com/images/graphics/erorr-img-med.jpg'" />
+                    <a target="_blank" href="/story/2024/9/24/وزير-الخارجية-يبحث-مع-نظيرته-الألمانية-مساعى-التوصل-لوقف-إطلاق/6718572"><span class="img-count-link">5</span></a>
+                </div>
+                <div class="SingleNewDiv">
+                    <a target="_blank" href="/story/2024/9/24/بايدن-لم-نفقد-الأمل-فى-تحقيق-السلام-بالشرق-الأوسط/6718571">
+                        <div class="TopNewNewsLink" title="بايدن: لم نفقد الأمل فى تحقيق السلام بالشرق الأوسط" style="right: 10px;"></div>
+                    </a>
+                    <img border="0" data-count="6" data-href="/story/2024/9/24/بايدن-لم-نفقد-الأمل-فى-تحقيق-السلام-بالشرق-الأوسط/6718571" src="https://img.youm7.com/medium/2024042405000909.jpg" imagepath="bx_loader.gif" newtitle="بايدن: لم نفقد الأمل فى تحقيق السلام بالشرق الأوسط" class="TopNewsImg1" alt="بايدن: لم نفقد الأمل فى تحقيق السلام بالشرق الأوسط" onerror="this.src='https://img.youm7.com/images/graphics/erorr-img-med.jpg'" />
+                    <a target="_blank" href="/story/2024/9/24/بايدن-لم-نفقد-الأمل-فى-تحقيق-السلام-بالشرق-الأوسط/6718571"><span class="img-count-link">6</span></a>
+                </div>
+                <div class="SingleNewDiv">
+                    <a target="_blank" href="/story/2024/9/24/الرقابة-المالية-ارتفاع-صافى-أصول-صناديق-الذهب-طبقا-للسعر-المعلن/6718553">
+                        <div class="TopNewNewsLink" title="الرقابة المالية: ارتفاع صافى أصول صناديق الذهب طبقا للسعر المعلن من البورصة" style="right: 10px;"></div>
+                    </a>
+                    <img border="0" data-count="7" data-href="/story/2024/9/24/الرقابة-المالية-ارتفاع-صافى-أصول-صناديق-الذهب-طبقا-للسعر-المعلن/6718553" src="https://img.youm7.com/medium/20240918024402442.jpg" imagepath="bx_loader.gif" newtitle="الرقابة المالية: ارتفاع صافى أصول صناديق الذهب طبقا للسعر المعلن من البورصة" class="TopNewsImg1" alt="الرقابة المالية: ارتفاع صافى أصول صناديق الذهب طبقا للسعر المعلن من البورصة" onerror="this.src='https://img.youm7.com/images/graphics/erorr-img-med.jpg'" />
+                    <a target="_blank" href="/story/2024/9/24/الرقابة-المالية-ارتفاع-صافى-أصول-صناديق-الذهب-طبقا-للسعر-المعلن/6718553"><span class="img-count-link">7</span></a>
+                </div>
+                <div class="SingleNewDiv">
+                    <a target="_blank" href="/story/2024/9/24/تليجرام-يقدم-بيانات-مستخدميه-للشرطة-فى-هذه-الحالة/6718311">
+                        <div class="TopNewNewsLink" title="تليجرام يقدم بيانات مستخدميه للشرطة.. فى هذه الحالة" style="right: 10px;"></div>
+                    </a>
+                    <img border="0" data-count="8" data-href="/story/2024/9/24/تليجرام-يقدم-بيانات-مستخدميه-للشرطة-فى-هذه-الحالة/6718311" src="https://img.youm7.com/medium/202408260343194319.jpg" imagepath="bx_loader.gif" newtitle="تليجرام يقدم بيانات مستخدميه للشرطة.. فى هذه الحالة" class="TopNewsImg1" alt="تليجرام يقدم بيانات مستخدميه للشرطة.. فى هذه الحالة" onerror="this.src='https://img.youm7.com/images/graphics/erorr-img-med.jpg'" />
+                    <a target="_blank" href="/story/2024/9/24/تليجرام-يقدم-بيانات-مستخدميه-للشرطة-فى-هذه-الحالة/6718311"><span class="img-count-link">8</span></a>
+                </div>
+                <div class="SingleNewDiv">
+                    <a target="_blank" href="/story/2024/9/24/غدا-أقوى-ملحق-عقارى-فى-الشرق-الأوسط-بمناسبة-انطلاق-معرض/6718544">
+                        <div class="TopNewNewsLink" title="غدا.. أقوى ملحق عقارى فى الشرق الأوسط بمناسبة انطلاق معرض سيتى سكيب" style="right: 10px;"></div>
+                    </a>
+                    <img border="0" data-count="9" data-href="/story/2024/9/24/غدا-أقوى-ملحق-عقارى-فى-الشرق-الأوسط-بمناسبة-انطلاق-معرض/6718544" src="https://img.youm7.com/medium/20210325092503253.jpg" imagepath="bx_loader.gif" newtitle="غدا.. أقوى ملحق عقارى فى الشرق الأوسط بمناسبة انطلاق معرض سيتى سكيب" class="TopNewsImg1" alt="غدا.. أقوى ملحق عقارى فى الشرق الأوسط بمناسبة انطلاق معرض سيتى سكيب" onerror="this.src='https://img.youm7.com/images/graphics/erorr-img-med.jpg'" />
+                    <a target="_blank" href="/story/2024/9/24/غدا-أقوى-ملحق-عقارى-فى-الشرق-الأوسط-بمناسبة-انطلاق-معرض/6718544"><span class="img-count-link">9</span></a>
+                </div>
+                <div class="SingleNewDiv">
+                    <a target="_blank" href="/story/2024/9/24/الطاهرى-طاقم-القاهرة-الإخبارية-فى-بيروت-يوزع-المياه-لنازحى-الجنوب/6718542">
+                        <div class="TopNewNewsLink" title="الطاهرى: طاقم &quot;القاهرة الإخبارية&quot; فى بيروت يوزع المياه لنازحى الجنوب.. فيديو" style="right: 10px;"></div>
+                    </a>
+                    <img border="0" data-count="10" data-href="/story/2024/9/24/الطاهرى-طاقم-القاهرة-الإخبارية-فى-بيروت-يوزع-المياه-لنازحى-الجنوب/6718542" src="https://img.youm7.com/medium/20240415100752752.jpg" imagepath="bx_loader.gif" newtitle="الطاهرى: طاقم &quot;القاهرة الإخبارية&quot; فى بيروت يوزع المياه لنازحى الجنوب.. فيديو" class="TopNewsImg1" alt="الطاهرى: طاقم &quot;القاهرة الإخبارية&quot; فى بيروت يوزع المياه لنازحى الجنوب.. فيديو" onerror="this.src='https://img.youm7.com/images/graphics/erorr-img-med.jpg'" />
+                    <a target="_blank" href="/story/2024/9/24/الطاهرى-طاقم-القاهرة-الإخبارية-فى-بيروت-يوزع-المياه-لنازحى-الجنوب/6718542"><span class="img-count-link">10</span></a>
+                </div>
+                <div class="SingleNewDiv">
+                    <a target="_blank" href="/story/2024/9/24/القاضيات-تزين-تشكيل-الحركة-القضائية-للمحكمة-التاديبية-العليا-بمجلس-الدولة/6718492">
+                        <div class="TopNewNewsLink" title="القاضيات تزين تشكيل الحركة القضائية للمحكمة التاديبية العليا بمجلس الدولة لأول مرة" style="right: 10px;"></div>
+                    </a>
+                    <img border="0" data-count="11" data-href="/story/2024/9/24/القاضيات-تزين-تشكيل-الحركة-القضائية-للمحكمة-التاديبية-العليا-بمجلس-الدولة/6718492" src="https://img.youm7.com/medium/20240924032102212.jpg" imagepath="bx_loader.gif" newtitle="القاضيات تزين تشكيل الحركة القضائية للمحكمة التاديبية العليا بمجلس الدولة لأول مرة" class="TopNewsImg1" alt="القاضيات تزين تشكيل الحركة القضائية للمحكمة التاديبية العليا بمجلس الدولة لأول مرة" onerror="this.src='https://img.youm7.com/images/graphics/erorr-img-med.jpg'" />
+                    <a target="_blank" href="/story/2024/9/24/القاضيات-تزين-تشكيل-الحركة-القضائية-للمحكمة-التاديبية-العليا-بمجلس-الدولة/6718492"><span class="img-count-link">11</span></a>
+                </div>
+                <div class="SingleNewDiv">
+                    <a target="_blank" href="/story/2024/9/24/نصائح-لحماية-طفلك-من-الأفكار-المتعصبة-عبر-الإنترنت/6718507">
+                        <div class="TopNewNewsLink" title="نصائح لحماية طفلك من الأفكار المتعصبة عبر الإنترنت" style="right: 10px;"></div>
+                    </a>
+                    <img border="0" data-count="12" data-href="/story/2024/9/24/نصائح-لحماية-طفلك-من-الأفكار-المتعصبة-عبر-الإنترنت/6718507" src="https://img.youm7.com/medium/2024082305020020.jpg" imagepath="bx_loader.gif" newtitle="نصائح لحماية طفلك من الأفكار المتعصبة عبر الإنترنت" class="TopNewsImg1" alt="نصائح لحماية طفلك من الأفكار المتعصبة عبر الإنترنت" onerror="this.src='https://img.youm7.com/images/graphics/erorr-img-med.jpg'" />
+                    <a target="_blank" href="/story/2024/9/24/نصائح-لحماية-طفلك-من-الأفكار-المتعصبة-عبر-الإنترنت/6718507"><span class="img-count-link">12</span></a>
+                </div>
+                <div class="SingleNewDiv">
+                    <a target="_blank" href="/story/2024/9/24/مستشفيات-لبنان-تشهد-وضعا-كارثيا-ومصدر-طبى-الأزمة-ستطول/6718475">
+                        <div class="TopNewNewsLink" title="مستشفيات لبنان تشهد وضعا كارثيا.. ومصدر  طبى: الأزمة ستطول" style="right: 10px;"></div>
+                    </a>
+                    <img border="0" data-count="13" data-href="/story/2024/9/24/مستشفيات-لبنان-تشهد-وضعا-كارثيا-ومصدر-طبى-الأزمة-ستطول/6718475" src="https://img.youm7.com/medium/202409240223502350.jpg" imagepath="bx_loader.gif" newtitle="مستشفيات لبنان تشهد وضعا كارثيا.. ومصدر  طبى: الأزمة ستطول" class="TopNewsImg1" alt="مستشفيات لبنان تشهد وضعا كارثيا.. ومصدر  طبى: الأزمة ستطول" onerror="this.src='https://img.youm7.com/images/graphics/erorr-img-med.jpg'" />
+                    <a target="_blank" href="/story/2024/9/24/مستشفيات-لبنان-تشهد-وضعا-كارثيا-ومصدر-طبى-الأزمة-ستطول/6718475"><span class="img-count-link">13</span></a>
+                </div>
+    </div>
+    <div id="NewTitleDiv" class="SliderDownDiv"></div>
+</div>
+
+<div class="bulletsSlider">
+</div>
+                </div>
+            </div>
+
+            <!--leader board-->
+            <center>
+			
+                <div class="row leaderBoard1">
+                     
+
+
+<!-- /21823462148/Youm7-Leaderboard-HP-2 -->
+<div id='div-gpt-ad-1559749015733-0'>
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1559749015733-0'); });
+</script>
+</div>
+							<pubguru data-pg-ad="youm7_970x250" >
+                </div>
+				
+            </center>
+
+            
+
+            <!--News Content-->
+            <div class="row news-content">
+                <!--Right Content-->
+                <div class="col-xs-8 right-Content home-right">
+                    
+<div class="container">
+            <!--Title-->
+            <h2>
+                <a href="/Section/%D8%AA%D8%AD%D9%82%D9%8A%D9%82%D8%A7%D8%AA-%D9%88%D9%85%D9%84%D9%81%D8%A7%D8%AA/12/1">تحقيقات و ملفات</a>
+            </h2>
+                <!--Big One-->
+                <div class="col-xs-12 bigOneSec">
+                    <a href="/story/2024/9/24/ماذا-فعل-شيطان-المنطقة-بلؤلؤة-الشرق-جيش-الاحتلال-يواصل-غاراته/6718457" class="bigOneImg">
+                        <img src="https://img.youm7.com/Medium/202409190841264126.jpg" width="170px" height="130px" alt="قصف لبنان " title="قصف لبنان " class="img-responsive" onerror="this.src='https://img.youm7.com/images/graphics/erorr-img-med.jpg'" />
+                    </a>
+                    <div>
+                        <h3>
+                            <a href="/story/2024/9/24/ماذا-فعل-شيطان-المنطقة-بلؤلؤة-الشرق-جيش-الاحتلال-يواصل-غاراته/6718457"> ماذا فعل شيطان المنطقة بلؤلؤة الشرق؟.. جيش الاحتلال يواصل غاراته على لبنان.. استشهاد558 لبنانيا بينهم50 طفلاً.. الأهالى يفتحون منازلهم لاستضافة النازحين.. اندفاع لتخزين السلع.. وإلغاء 30 رحلة من بيروت وإليها </a>
+                        </h3>
+                        <span class="newsDate"> الثلاثاء، 24 سبتمبر 2024 06:00 م</span>
+                    </div>
+                </div>
+                <div class="row smallOnes">
+                        <!--Small One-->
+                        <div class="col-xs-6 smallOneSec">
+                            <a href="/story/2024/9/24/للجلسة-الثانية-على-التوالى-اللون-الأحمر-يسيطر-على-المؤشر-الرئيسى/6718481" class="smallOneImg">
+                                <img src="https://img.youm7.com/small/202209080328492849.jpg" width="90px" height="120px" alt="البورصة المصرية .. صورة أرشيفية" title="البورصة المصرية .. صورة أرشيفية" class="img-responsive" onerror="this.src='https://img.youm7.com/images/graphics/erorr-img-small.jpg'" />
+                            </a>
+                            <h3>
+                                <a href="/story/2024/9/24/للجلسة-الثانية-على-التوالى-اللون-الأحمر-يسيطر-على-المؤشر-الرئيسى/6718481"> للجلسة الثانية على التوالى.. اللون الأحمر يسيطر على المؤشر الرئيسى للبورصة.. تراجع الأسهم القيادية على رأسها البنك التجارى الدولى والمصرية للاتصالات.. والمضاربات تصعد بمؤشرا إيجي إكس 70 وإيجي إكس 100 </a>
+                            </h3>
+                        </div>
+                        <!--Small One-->
+                        <!--Small One-->
+                        <div class="col-xs-6 smallOneSec">
+                            <a href="/story/2024/9/24/تزايد-التوترات-فى-لبنان-يساعد-على-ارتفاع-الذهب-العالمى-قفزة/6718104" class="smallOneImg">
+                                <img src="https://img.youm7.com/small/201803271225192519.jpg" width="90px" height="120px" alt="أوقية الذهب" title="أوقية الذهب" class="img-responsive" onerror="this.src='https://img.youm7.com/images/graphics/erorr-img-small.jpg'" />
+                            </a>
+                            <h3>
+                                <a href="/story/2024/9/24/تزايد-التوترات-فى-لبنان-يساعد-على-ارتفاع-الذهب-العالمى-قفزة/6718104"> تزايد التوترات فى لبنان يساعد على ارتفاع الذهب العالمى.. قفزة فى تدفقات صناديق الاستثمار بالمعدن النفيس بحوالى 3أطنان.. والأوقية تلامس 2640 دولارا لأول مرة فى التاريخ بدعم من استمرار صعود الطلب على الملاذ الآمن </a>
+                            </h3>
+                        </div>
+                        <!--Small One-->
+                        <!--Small One-->
+                        <div class="col-xs-6 smallOneSec">
+                            <a href="/story/2024/9/24/وليد-فكرى-يكتب-سباق-التسلح-وفن-الإيذاء-عن-بُعد-&#171;2&#187;/6718629" class="smallOneImg">
+                                <img src="https://img.youm7.com/small/202407100939413941.jpg" width="90px" height="120px" alt="وليد فكرى " title="وليد فكرى " class="img-responsive" onerror="this.src='https://img.youm7.com/images/graphics/erorr-img-small.jpg'" />
+                            </a>
+                            <h3>
+                                <a href="/story/2024/9/24/وليد-فكرى-يكتب-سباق-التسلح-وفن-الإيذاء-عن-بُعد-&#171;2&#187;/6718629"> وليد فكرى يكتب: سباق التسلح وفن الإيذاء عن بُعد &#171;2&#187; </a>
+                            </h3>
+                        </div>
+                        <!--Small One-->
+                        <!--Small One-->
+                        <div class="col-xs-6 smallOneSec">
+                            <a href="/story/2024/9/24/عدوان-إسرائيل-الغاشم-على-غزة-مستمر-لليوم-354-تواليا-12/6718391" class="smallOneImg">
+                                <img src="https://img.youm7.com/small/202403290911531153.jpg" width="90px" height="120px" alt="غزة" title="غزة" class="img-responsive" onerror="this.src='https://img.youm7.com/images/graphics/erorr-img-small.jpg'" />
+                            </a>
+                            <h3>
+                                <a href="/story/2024/9/24/عدوان-إسرائيل-الغاشم-على-غزة-مستمر-لليوم-354-تواليا-12/6718391"> عدوان إسرائيل الغاشم على غزة مستمر لليوم 354 تواليا.. 12 شهيدا و43 مصابا فى 3 مجازر للاحتلال.. مئات المعتقلين الفلسطينيين يواجهون جرائم تعذيب ممنهجة بسجن النقب.. &quot;فلسطين&quot;: يجب استمرار الجهود لينال شعبنا حقوقه </a>
+                            </h3>
+                        </div>
+                        <!--Small One-->
+                        <!--Small One-->
+                        <div class="col-xs-6 smallOneSec">
+                            <a href="/story/2024/9/24/اليوم-السابع-داخل-بيمارستان-المؤيد-شيخ-بالقاهرة-التاريخية-رئيس-قطاع/6718224" class="smallOneImg">
+                                <img src="https://img.youm7.com/small/202409240115311531.jpg" width="90px" height="120px" alt="الدكتور جمال مصطفى الزميل محمد أسعد داخل بيمارستان المؤيد شيخ" title="الدكتور جمال مصطفى الزميل محمد أسعد داخل بيمارستان المؤيد شيخ" class="img-responsive" onerror="this.src='https://img.youm7.com/images/graphics/erorr-img-small.jpg'" />
+                            </a>
+                            <h3>
+                                <a href="/story/2024/9/24/اليوم-السابع-داخل-بيمارستان-المؤيد-شيخ-بالقاهرة-التاريخية-رئيس-قطاع/6718224"> &quot;اليوم السابع&quot; داخل بيمارستان المؤيد شيخ بالقاهرة التاريخية..رئيس قطاع الآثار الإسلامية والقبطية يشرح تفاصيل إنشاءه لعلاج المرضى الفقراء فى العصر المملوكى..ويؤكد: يدل على تقدم مصر في مجالى الطب والصيدلة.. فيديو </a>
+                            </h3>
+                        </div>
+                        <!--Small One-->
+                        <!--Small One-->
+                        <div class="col-xs-6 smallOneSec">
+                            <a href="/story/2024/9/24/الرئيس-السيسى-يوجه-بتكثيف-العمل-على-تعزيز-الأداء-التنموى-والسياحى/6718274" class="smallOneImg">
+                                <img src="https://img.youm7.com/small/202409240156265626.jpg" width="90px" height="120px" alt="الرئيس عبد الفتاح السيسي" title="الرئيس عبد الفتاح السيسي" class="img-responsive" onerror="this.src='https://img.youm7.com/images/graphics/erorr-img-small.jpg'" />
+                            </a>
+                            <h3>
+                                <a href="/story/2024/9/24/الرئيس-السيسى-يوجه-بتكثيف-العمل-على-تعزيز-الأداء-التنموى-والسياحى/6718274"> الرئيس السيسى يوجه بتكثيف العمل على تعزيز الأداء التنموى والسياحى لجنوب سيناء.. تنفيذ آليات جديدة لتحفيز الاستثمارات في جميع مدن المحافظة.. ويشدد على رفع كفاءة وتطوير القطاعات الحيوية لخدمة المواطنين </a>
+                            </h3>
+                        </div>
+                        <!--Small One-->
+                </div>
+                <div class="col-xs-12 mor-section">
+                    <a href="/Section/%D8%AA%D8%AD%D9%82%D9%8A%D9%82%D8%A7%D8%AA-%D9%88%D9%85%D9%84%D9%81%D8%A7%D8%AA/12/1">
+                        <img src="/images/more.gif" width="55px" height="16px" class="img-responsive" alt="more" title=" المزيد" />
+                    </a>
+                </div>
+            <!--Small Sections-->                     <div class="col-xs-4 smallSections">
+                        <!--Title-->
+                        <h2>
+                            <a href="/Section/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%B9%D8%A7%D8%AC%D9%84%D8%A9/65/1">أخبار عاجلة</a>
+                        </h2>
+                            <!--Small One Style2-->
+                            <div class="smallSection">
+                                <a href="/story/2024/9/24/رئيس-الوزراء-الدولة-المصرية-حريصة-على-زيادة-الصادرات-لسد-الفجوة/6718521">
+                                    <img src="https://img.youm7.com/Medium/2024092404090999.jpg" width="170px" height="130px" alt="الدكتور مصطفى مدبولي، رئيس مجلس الوزراء" title="الدكتور مصطفى مدبولي، رئيس مجلس الوزراء" class="img-responsive" onerror="this.src='https://img.youm7.com/images/graphics/erorr-img-med.jpg'" />
+                                </a>
+                                <h3>
+                                    <a href="/story/2024/9/24/رئيس-الوزراء-الدولة-المصرية-حريصة-على-زيادة-الصادرات-لسد-الفجوة/6718521"> رئيس الوزراء: الدولة المصرية حريصة على زيادة الصادرات لسد الفجوة الدولارية </a>
+                                </h3>
+                            </div>                            <!--Small One Style2-->
+                            <div class="smallSection">
+                                <a href="/story/2024/9/24/وزير-الخارجية-الرئيس-السيسي-يولى-أهمية-لمشروعات-البنية-التحتية-وربط/6718535">
+                                    <img src="https://img.youm7.com/Medium/202409240431243124.jpg" width="170px" height="130px" alt="بدر عبد العاطي فى نيويورك " title="بدر عبد العاطي فى نيويورك " class="img-responsive" onerror="this.src='https://img.youm7.com/images/graphics/erorr-img-med.jpg'" />
+                                </a>
+                                <h3>
+                                    <a href="/story/2024/9/24/وزير-الخارجية-الرئيس-السيسي-يولى-أهمية-لمشروعات-البنية-التحتية-وربط/6718535"> وزير الخارجية: الرئيس السيسي يولى أهمية لمشروعات البنية التحتية وربط الطرق </a>
+                                </h3>
+                            </div>                            <!--Small One Style2-->
+                            <div class="smallSection">
+                                <a href="/story/2024/9/24/أردوغان-الفلسطينيون-يمارسون-حقهم-المشروع-فى-مقاومة-الاحتلال/6718625">
+                                    <img src="https://img.youm7.com/Medium/202008220825532553.jpg" width="170px" height="130px" alt="الرئيس التركى رجب طيب أردوغان" title="الرئيس التركى رجب طيب أردوغان" class="img-responsive" onerror="this.src='https://img.youm7.com/images/graphics/erorr-img-med.jpg'" />
+                                </a>
+                                <h3>
+                                    <a href="/story/2024/9/24/أردوغان-الفلسطينيون-يمارسون-حقهم-المشروع-فى-مقاومة-الاحتلال/6718625"> أردوغان: الفلسطينيون يمارسون حقهم المشروع فى مقاومة الاحتلال </a>
+                                </h3>
+                            </div>                            <!--Small One Style2-->
+                            <div class="smallSection">
+                                <a href="/story/2024/9/24/محلل-سياسى-لبنانى-إسرائيل-تسير-نحو-مزيد-من-التصعيد-والقطاع/6718609">
+                                    <img src="https://img.youm7.com/Medium/202409240538373837.jpg" width="170px" height="130px" alt="القصف الإسرائيلي على لبنان" title="القصف الإسرائيلي على لبنان" class="img-responsive" onerror="this.src='https://img.youm7.com/images/graphics/erorr-img-med.jpg'" />
+                                </a>
+                                <h3>
+                                    <a href="/story/2024/9/24/محلل-سياسى-لبنانى-إسرائيل-تسير-نحو-مزيد-من-التصعيد-والقطاع/6718609"> محلل سياسى لبنانى: إسرائيل تسير نحو مزيد من التصعيد.. والقطاع الصحى يعانى </a>
+                                </h3>
+                            </div>                            <!--Small One Style2-->
+                            <div class="smallSection">
+                                <a href="/story/2024/9/24/رئيس-الوزراء-يؤكد-ثقة-الحكومة-بأهمية-دور-سفراء-مصر-فى/6718516">
+                                    <img src="https://img.youm7.com/Medium/2024092404090999.jpg" width="170px" height="130px" alt="الدكتور مصطفى مدبولي، رئيس مجلس الوزراء" title="الدكتور مصطفى مدبولي، رئيس مجلس الوزراء" class="img-responsive" onerror="this.src='https://img.youm7.com/images/graphics/erorr-img-med.jpg'" />
+                                </a>
+                                <h3>
+                                    <a href="/story/2024/9/24/رئيس-الوزراء-يؤكد-ثقة-الحكومة-بأهمية-دور-سفراء-مصر-فى/6718516"> رئيس الوزراء يؤكد ثقة الحكومة بأهمية دور سفراء مصر فى الترويج للفرص الاستثمارية </a>
+                                </h3>
+                            </div>                        <div class="col-xs-12 mor-section">
+                            <a href="/Section/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%B9%D8%A7%D8%AC%D9%84%D8%A9/65/1">
+                                <img src="/images/more.gif" width="55px" height="16px" class="img-responsive" alt="more" title="المزيد" />
+                            </a>
+                        </div>
+                    </div>            <!--Small Sections-->                     <div class="col-xs-4 smallSections">
+                        <!--Title-->
+                        <h2>
+                            <a href="/Section/%D8%B3%D9%8A%D8%A7%D8%B3%D8%A9/319/1">سياسة</a>
+                        </h2>
+                            <!--Small One Style2-->
+                            <div class="smallSection">
+                                <a href="/story/2024/9/24/التحالف-الوطني-يعزز-شراكاته-مع-الأمم-المتحدة-لتحقيق-التنمية-المستدامة/6718637">
+                                    <img src="https://img.youm7.com/Medium/202409240615351535.jpg" width="170px" height="130px" alt="التحالف الوطني يعزز شراكاته مع الأمم المتحدة " title="التحالف الوطني يعزز شراكاته مع الأمم المتحدة " class="img-responsive" onerror="this.src='https://img.youm7.com/images/graphics/erorr-img-med.jpg'" />
+                                </a>
+                                <h3>
+                                    <a href="/story/2024/9/24/التحالف-الوطني-يعزز-شراكاته-مع-الأمم-المتحدة-لتحقيق-التنمية-المستدامة/6718637"> التحالف الوطني يعزز شراكاته مع الأمم المتحدة لتحقيق التنمية المستدامة </a>
+                                </h3>
+                            </div>                            <!--Small One Style2-->
+                            <div class="smallSection">
+                                <a href="/story/2024/9/24/غدا-مؤتمر-لنقابة-الصحفيين-لكشف-وقائع-التحريض-الإسرائيلى-ضد-شعب/6718545">
+                                    <img src="https://img.youm7.com/Medium/202407091032383238.jpg" width="170px" height="130px" alt="نقابة الصحفيين -أرشيفية" title="نقابة الصحفيين -أرشيفية" class="img-responsive" onerror="this.src='https://img.youm7.com/images/graphics/erorr-img-med.jpg'" />
+                                </a>
+                                <h3>
+                                    <a href="/story/2024/9/24/غدا-مؤتمر-لنقابة-الصحفيين-لكشف-وقائع-التحريض-الإسرائيلى-ضد-شعب/6718545"> غدا.. مؤتمر لنقابة الصحفيين لكشف وقائع التحريض الإسرائيلى ضد شعب فلسطين </a>
+                                </h3>
+                            </div>                            <!--Small One Style2-->
+                            <div class="smallSection">
+                                <a href="/story/2024/9/24/حزب-الإصلاح-والنهضة-يدين-التصعيد-الإسرائيلى-فى-لبنان/6718199">
+                                    <img src="https://img.youm7.com/Medium/202409230456585658.jpg" width="170px" height="130px" alt="قصف لبنان - ارشيفية" title="قصف لبنان - ارشيفية" class="img-responsive" onerror="this.src='https://img.youm7.com/images/graphics/erorr-img-med.jpg'" />
+                                </a>
+                                <h3>
+                                    <a href="/story/2024/9/24/حزب-الإصلاح-والنهضة-يدين-التصعيد-الإسرائيلى-فى-لبنان/6718199"> حزب الإصلاح والنهضة يدين التصعيد الإسرائيلى فى لبنان </a>
+                                </h3>
+                            </div>                            <!--Small One Style2-->
+                            <div class="smallSection">
+                                <a href="/story/2024/9/24/النائب-حازم-الجندى-توصيات-الأعلى-للإعلام-تدشن-مرحلة-جديدة-من/6718538">
+                                    <img src="https://img.youm7.com/Medium/202402180121592159.jpg" width="170px" height="130px" alt="النائب حازم الجندى" title="النائب حازم الجندى" class="img-responsive" onerror="this.src='https://img.youm7.com/images/graphics/erorr-img-med.jpg'" />
+                                </a>
+                                <h3>
+                                    <a href="/story/2024/9/24/النائب-حازم-الجندى-توصيات-الأعلى-للإعلام-تدشن-مرحلة-جديدة-من/6718538"> النائب حازم الجندى: توصيات &quot;الأعلى للإعلام&quot; تدشن مرحلة جديدة من الانضباط </a>
+                                </h3>
+                            </div>                            <!--Small One Style2-->
+                            <div class="smallSection">
+                                <a href="/story/2024/9/24/ماعت-تدعو-المجتمع-الدولى-للضغط-على-سلطات-الاحتلال-لوقف-المجازر/6718464">
+                                    <img src="https://img.youm7.com/Medium/202409230456585658.jpg" width="170px" height="130px" alt="لبنان" title="لبنان" class="img-responsive" onerror="this.src='https://img.youm7.com/images/graphics/erorr-img-med.jpg'" />
+                                </a>
+                                <h3>
+                                    <a href="/story/2024/9/24/ماعت-تدعو-المجتمع-الدولى-للضغط-على-سلطات-الاحتلال-لوقف-المجازر/6718464"> ماعت تدعو المجتمع الدولى للضغط على سلطات الاحتلال لوقف المجازر فى جنوب لبنان </a>
+                                </h3>
+                            </div>                        <div class="col-xs-12 mor-section">
+                            <a href="/Section/%D8%B3%D9%8A%D8%A7%D8%B3%D8%A9/319/1">
+                                <img src="/images/more.gif" width="55px" height="16px" class="img-responsive" alt="more" title="المزيد" />
+                            </a>
+                        </div>
+                    </div>            <!--Small Sections-->                     <div class="col-xs-4 smallSections">
+                        <!--Title-->
+                        <h2>
+                            <a href="/Section/%D8%AD%D9%88%D8%A7%D8%AF%D8%AB/203/1">حوادث</a>
+                        </h2>
+                            <!--Small One Style2-->
+                            <div class="smallSection">
+                                <a href="/story/2024/9/24/تأجيل-محاكمة-البلوجر-هدير-عاطف-وطليقها-لجلسة-28-أكتوبر/6718547">
+                                    <img src="https://img.youm7.com/Medium/20200705122601261.jpg" width="170px" height="130px" alt="المحكمة الاقتصادية - أرشيفية " title="المحكمة الاقتصادية - أرشيفية " class="img-responsive" onerror="this.src='https://img.youm7.com/images/graphics/erorr-img-med.jpg'" />
+                                </a>
+                                <h3>
+                                    <a href="/story/2024/9/24/تأجيل-محاكمة-البلوجر-هدير-عاطف-وطليقها-لجلسة-28-أكتوبر/6718547"> تأجيل محاكمة البلوجر هدير عاطف وطليقها لجلسة 28 أكتوبر </a>
+                                </h3>
+                            </div>                            <!--Small One Style2-->
+                            <div class="smallSection">
+                                <a href="/story/2024/9/24/الحركة-القضائية-للمحاكم-الإدارية-لمجلس-الدولة-بالأسماء/6718465">
+                                    <img src="https://img.youm7.com/Medium/202409240345584558.jpg" width="170px" height="130px" alt="المستشار أحمد عبود رئيس مجلس الدولة" title="المستشار أحمد عبود رئيس مجلس الدولة" class="img-responsive" onerror="this.src='https://img.youm7.com/images/graphics/erorr-img-med.jpg'" />
+                                </a>
+                                <h3>
+                                    <a href="/story/2024/9/24/الحركة-القضائية-للمحاكم-الإدارية-لمجلس-الدولة-بالأسماء/6718465"> الحركة القضائية للمحاكم الإدارية لمجلس الدولة.. بالأسماء </a>
+                                </h3>
+                            </div>                            <!--Small One Style2-->
+                            <div class="smallSection">
+                                <a href="/story/2024/9/24/8-أكتوبر-النطق-بالحكم-على-البلوجر-سوزى-الأردنية-بتهمة-سب/6718546">
+                                    <img src="https://img.youm7.com/Medium/202302060244214421.jpg" width="170px" height="130px" alt="محكمة -أرشيفية " title="محكمة -أرشيفية " class="img-responsive" onerror="this.src='https://img.youm7.com/images/graphics/erorr-img-med.jpg'" />
+                                </a>
+                                <h3>
+                                    <a href="/story/2024/9/24/8-أكتوبر-النطق-بالحكم-على-البلوجر-سوزى-الأردنية-بتهمة-سب/6718546"> 8 أكتوبر النطق بالحكم على البلوجر سوزى الأردنية بتهمة سب والدها على الهواء </a>
+                                </h3>
+                            </div>                            <!--Small One Style2-->
+                            <div class="smallSection">
+                                <a href="/story/2024/9/24/زوج-ينهى-حياة-زوجته-فى-شبرا-الخيمة-بسبب-خلافات-بينهما/6718480">
+                                    <img src="https://img.youm7.com/Medium/202007250418401840.jpg" width="170px" height="130px" alt="مديرية أمن القليوبية -أرشيفية" title="مديرية أمن القليوبية -أرشيفية" class="img-responsive" onerror="this.src='https://img.youm7.com/images/graphics/erorr-img-med.jpg'" />
+                                </a>
+                                <h3>
+                                    <a href="/story/2024/9/24/زوج-ينهى-حياة-زوجته-فى-شبرا-الخيمة-بسبب-خلافات-بينهما/6718480"> زوج ينهى حياة زوجته فى شبرا الخيمة بسبب خلافات بينهما </a>
+                                </h3>
+                            </div>                            <!--Small One Style2-->
+                            <div class="smallSection">
+                                <a href="/story/2024/9/24/ضبط-المتهم-بالتنقيب-عن-الآثار-أسفل-منزله-بقنا/6718503">
+                                    <img src="https://img.youm7.com/Medium/201911120652185218.jpg" width="170px" height="130px" alt="حملة أمنية - أرشيفية " title="حملة أمنية - أرشيفية " class="img-responsive" onerror="this.src='https://img.youm7.com/images/graphics/erorr-img-med.jpg'" />
+                                </a>
+                                <h3>
+                                    <a href="/story/2024/9/24/ضبط-المتهم-بالتنقيب-عن-الآثار-أسفل-منزله-بقنا/6718503"> ضبط المتهم بالتنقيب عن الآثار أسفل منزله بقنا </a>
+                                </h3>
+                            </div>                        <div class="col-xs-12 mor-section">
+                            <a href="/Section/%D8%AD%D9%88%D8%A7%D8%AF%D8%AB/203/1">
+                                <img src="/images/more.gif" width="55px" height="16px" class="img-responsive" alt="more" title="المزيد" />
+                            </a>
+                        </div>
+                    </div>            <!--Small Sections-->                     <div class="col-xs-4 smallSections">
+                        <!--Title-->
+                        <h2>
+                            <a href="/Section/%D8%AA%D9%82%D8%A7%D8%B1%D9%8A%D8%B1-%D9%85%D8%B5%D8%B1%D9%8A%D8%A9/97/1">تقارير مصرية</a>
+                        </h2>
+                            <!--Small One Style2-->
+                            <div class="smallSection">
+                                <a href="/story/2024/9/24/الأزهر-يدين-العدوان-على-الأراضى-اللبنانية-ويؤكد-دليل-على-نوايا/6718621">
+                                    <img src="https://img.youm7.com/Medium/202010060221202120.jpg" width="170px" height="130px" alt="الأزهر الشريف -أرشيفية" title="الأزهر الشريف -أرشيفية" class="img-responsive" onerror="this.src='https://img.youm7.com/images/graphics/erorr-img-med.jpg'" />
+                                </a>
+                                <h3>
+                                    <a href="/story/2024/9/24/الأزهر-يدين-العدوان-على-الأراضى-اللبنانية-ويؤكد-دليل-على-نوايا/6718621"> الأزهر يدين العدوان على الأراضى اللبنانية.. ويؤكد: دليل على نوايا إجرامية </a>
+                                </h3>
+                            </div>                            <!--Small One Style2-->
+                            <div class="smallSection">
+                                <a href="/story/2024/9/24/حصاد-الوزارات-وزيرة-التضامن-توجه-المديريات-بالعمل-على-الارتقاء-بجودة/6718543">
+                                    <img src="https://img.youm7.com/Medium/202409241217571757.jpg" width="170px" height="130px" alt="الدكتورة مايا مرسى وزيرة التضامن" title="الدكتورة مايا مرسى وزيرة التضامن" class="img-responsive" onerror="this.src='https://img.youm7.com/images/graphics/erorr-img-med.jpg'" />
+                                </a>
+                                <h3>
+                                    <a href="/story/2024/9/24/حصاد-الوزارات-وزيرة-التضامن-توجه-المديريات-بالعمل-على-الارتقاء-بجودة/6718543"> حصاد الوزارات.. وزيرة التضامن توجه المديريات بالعمل على الارتقاء بجودة الخدمات </a>
+                                </h3>
+                            </div>                            <!--Small One Style2-->
+                            <div class="smallSection">
+                                <a href="/story/2024/9/24/كلية-الإعلام-جامعة-السويس-تعقد-المقابلات-الشخصية-للقبول-بقسم-الإذاعة/6718453">
+                                    <img src="https://img.youm7.com/Medium/202409240323412341.jpg" width="170px" height="130px" alt="إعلام السويس -أرشيفية" title="إعلام السويس -أرشيفية" class="img-responsive" onerror="this.src='https://img.youm7.com/images/graphics/erorr-img-med.jpg'" />
+                                </a>
+                                <h3>
+                                    <a href="/story/2024/9/24/كلية-الإعلام-جامعة-السويس-تعقد-المقابلات-الشخصية-للقبول-بقسم-الإذاعة/6718453"> كلية الإعلام جامعة السويس تعقد المقابلات الشخصية للقبول بقسم الإذاعة </a>
+                                </h3>
+                            </div>                            <!--Small One Style2-->
+                            <div class="smallSection">
+                                <a href="/story/2024/9/24/البابا-تواضروس-يستقبل-الأسقف-العام-لكنائس-ألماظة-والنائب-الباباوى-لقبرص/6718520">
+                                    <img src="https://img.youm7.com/Medium/202409240412121212.jpg" width="170px" height="130px" alt="البابا تواضروس الثانى خلال اللقاء" title="البابا تواضروس الثانى خلال اللقاء" class="img-responsive" onerror="this.src='https://img.youm7.com/images/graphics/erorr-img-med.jpg'" />
+                                </a>
+                                <h3>
+                                    <a href="/story/2024/9/24/البابا-تواضروس-يستقبل-الأسقف-العام-لكنائس-ألماظة-والنائب-الباباوى-لقبرص/6718520"> البابا تواضروس يستقبل الأسقف العام لكنائس ألماظة والنائب الباباوى لقبرص </a>
+                                </h3>
+                            </div>                            <!--Small One Style2-->
+                            <div class="smallSection">
+                                <a href="/story/2024/9/24/محافظ-القاهرة-يدشن-مبادرة-زراعة-2400-شجرة-مثمرة/6718505">
+                                    <img src="https://img.youm7.com/Medium/20240924040042042.jpg" width="170px" height="130px" alt="محافظ القاهرة  و رئيس جامعة الازهر " title="محافظ القاهرة  و رئيس جامعة الازهر " class="img-responsive" onerror="this.src='https://img.youm7.com/images/graphics/erorr-img-med.jpg'" />
+                                </a>
+                                <h3>
+                                    <a href="/story/2024/9/24/محافظ-القاهرة-يدشن-مبادرة-زراعة-2400-شجرة-مثمرة/6718505"> محافظ القاهرة يدشن مبادرة زراعة 2400 شجرة مثمرة </a>
+                                </h3>
+                            </div>                        <div class="col-xs-12 mor-section">
+                            <a href="/Section/%D8%AA%D9%82%D8%A7%D8%B1%D9%8A%D8%B1-%D9%85%D8%B5%D8%B1%D9%8A%D8%A9/97/1">
+                                <img src="/images/more.gif" width="55px" height="16px" class="img-responsive" alt="more" title="المزيد" />
+                            </a>
+                        </div>
+                    </div>            <!--Small Sections-->                     <div class="col-xs-4 smallSections">
+                        <!--Title-->
+                        <h2>
+                            <a href="/Section/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D9%85%D8%AD%D8%A7%D9%81%D8%B8%D8%A7%D8%AA/296/1">أخبار المحافظات</a>
+                        </h2>
+                            <!--Small One Style2-->
+                            <div class="smallSection">
+                                <a href="/story/2024/9/24/محافظ-أسوان-يلتقى-بالأفواج-السياحية-ويقدم-لهم-هدايا-تذكارية-صور/6718618">
+                                    <img src="https://img.youm7.com/Medium/20240924060149149.jpg" width="170px" height="130px" alt="محافظ أسوان يلتقى بالأفواج السياحية" title="محافظ أسوان يلتقى بالأفواج السياحية" class="img-responsive" onerror="this.src='https://img.youm7.com/images/graphics/erorr-img-med.jpg'" />
+                                </a>
+                                <h3>
+                                    <a href="/story/2024/9/24/محافظ-أسوان-يلتقى-بالأفواج-السياحية-ويقدم-لهم-هدايا-تذكارية-صور/6718618"> محافظ أسوان يلتقى بالأفواج السياحية ويقدم لهم هدايا تذكارية.. صور </a>
+                                </h3>
+                            </div>                            <!--Small One Style2-->
+                            <div class="smallSection">
+                                <a href="/story/2024/9/24/قافلة-علاجية-للكشف-على-غير-القادرين-بقريتى-كفر-داود-والخماس/6718614">
+                                    <img src="https://img.youm7.com/Medium/202404010155505550_191.jpg" width="170px" height="130px" alt="قافلة طبية - أرشيفية" title="قافلة طبية - أرشيفية" class="img-responsive" onerror="this.src='https://img.youm7.com/images/graphics/erorr-img-med.jpg'" />
+                                </a>
+                                <h3>
+                                    <a href="/story/2024/9/24/قافلة-علاجية-للكشف-على-غير-القادرين-بقريتى-كفر-داود-والخماس/6718614"> قافلة علاجية للكشف على غير القادرين بقريتى كفر داود والخماس فى المنوفية </a>
+                                </h3>
+                            </div>                            <!--Small One Style2-->
+                            <div class="smallSection">
+                                <a href="/story/2024/9/24/50-منحة-مخفضة-للمتقدمين-لدراسة-الماجستير-فى-الزراعة-بجامعة-الإسكندرية/6718581">
+                                    <img src="https://img.youm7.com/Medium/202111021247394739.jpg" width="170px" height="130px" alt="جامعة الإسكندرية - أرشيفية" title="جامعة الإسكندرية - أرشيفية" class="img-responsive" onerror="this.src='https://img.youm7.com/images/graphics/erorr-img-med.jpg'" />
+                                </a>
+                                <h3>
+                                    <a href="/story/2024/9/24/50-منحة-مخفضة-للمتقدمين-لدراسة-الماجستير-فى-الزراعة-بجامعة-الإسكندرية/6718581"> 50 منحة مخفضة للمتقدمين لدراسة الماجستير فى الزراعة بجامعة الإسكندرية </a>
+                                </h3>
+                            </div>                            <!--Small One Style2-->
+                            <div class="smallSection">
+                                <a href="/story/2024/9/24/محافظ-دمياط-يضع-حجر-الأساس-لمدرستى-المتفوقين-STEM-والمصرية-اليابانية/6718601">
+                                    <img src="https://img.youm7.com/Medium/202409240539573957.jpg" width="170px" height="130px" alt="محافظ دمياط" title="محافظ دمياط" class="img-responsive" onerror="this.src='https://img.youm7.com/images/graphics/erorr-img-med.jpg'" />
+                                </a>
+                                <h3>
+                                    <a href="/story/2024/9/24/محافظ-دمياط-يضع-حجر-الأساس-لمدرستى-المتفوقين-STEM-والمصرية-اليابانية/6718601"> محافظ دمياط يضع حجر الأساس لمدرستى المتفوقين STEM والمصرية اليابانية 3 </a>
+                                </h3>
+                            </div>                            <!--Small One Style2-->
+                            <div class="smallSection">
+                                <a href="/story/2024/9/24/محافظ-الدقهلية-يلتقى-أصحاب-الوحدات-بمشروع-مساكن-الجلاء-اعرف-التفاصيل/6718565">
+                                    <img src="https://img.youm7.com/Medium/20240924050931931.jpg" width="170px" height="130px" alt="جانب من جولة محافظ الدقهلية" title="جانب من جولة محافظ الدقهلية" class="img-responsive" onerror="this.src='https://img.youm7.com/images/graphics/erorr-img-med.jpg'" />
+                                </a>
+                                <h3>
+                                    <a href="/story/2024/9/24/محافظ-الدقهلية-يلتقى-أصحاب-الوحدات-بمشروع-مساكن-الجلاء-اعرف-التفاصيل/6718565"> محافظ الدقهلية يلتقى أصحاب الوحدات بمشروع مساكن الجلاء.. اعرف التفاصيل </a>
+                                </h3>
+                            </div>                        <div class="col-xs-12 mor-section">
+                            <a href="/Section/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D9%85%D8%AD%D8%A7%D9%81%D8%B8%D8%A7%D8%AA/296/1">
+                                <img src="/images/more.gif" width="55px" height="16px" class="img-responsive" alt="more" title="المزيد" />
+                            </a>
+                        </div>
+                    </div>            <!--Small Sections-->                     <div class="col-xs-4 smallSections">
+                        <!--Title-->
+                        <h2>
+                            <a href="/Section/%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-%D9%88%D8%A8%D9%88%D8%B1%D8%B5%D8%A9/297/1">اقتصاد وبورصة</a>
+                        </h2>
+                            <!--Small One Style2-->
+                            <div class="smallSection">
+                                <a href="/story/2024/9/24/وزير-البترول-جارى-إنهاء-مشروعات-التحول-الرقمى-لضبط-منظومة-تداول/6718575">
+                                    <img src="https://img.youm7.com/Medium/202409240519221922.jpg" width="170px" height="130px" alt="وزير البترول خلال الاجتماع " title="وزير البترول خلال الاجتماع " class="img-responsive" onerror="this.src='https://img.youm7.com/images/graphics/erorr-img-med.jpg'" />
+                                </a>
+                                <h3>
+                                    <a href="/story/2024/9/24/وزير-البترول-جارى-إنهاء-مشروعات-التحول-الرقمى-لضبط-منظومة-تداول/6718575"> وزير البترول: جارى إنهاء مشروعات التحول الرقمى لضبط منظومة تداول الوقود محليا </a>
+                                </h3>
+                            </div>                            <!--Small One Style2-->
+                            <div class="smallSection">
+                                <a href="/story/2024/9/24/وزير-الكهرباء-يتوجه-إلى-روسيا-للمشاركة-باجتماعات-وزراء-الطاقة-لدول/6718579">
+                                    <img src="https://img.youm7.com/Medium/202208171233303330.jpg" width="170px" height="130px" alt="الدكتور محمود عصمت وزير الكهرباء والطاقة المتجددة" title="الدكتور محمود عصمت وزير الكهرباء والطاقة المتجددة" class="img-responsive" onerror="this.src='https://img.youm7.com/images/graphics/erorr-img-med.jpg'" />
+                                </a>
+                                <h3>
+                                    <a href="/story/2024/9/24/وزير-الكهرباء-يتوجه-إلى-روسيا-للمشاركة-باجتماعات-وزراء-الطاقة-لدول/6718579"> وزير الكهرباء يتوجه إلى روسيا للمشاركة باجتماعات وزراء الطاقة لدول &quot;بريكس&quot; </a>
+                                </h3>
+                            </div>                            <!--Small One Style2-->
+                            <div class="smallSection">
+                                <a href="/story/2024/9/24/وزيرة-التخطيط-والتعاون-الدولى-تلتقى-ممثلى-منتدى-شباب-العالم-المصرى/6718435">
+                                    <img src="https://img.youm7.com/Medium/202409240312591259.jpg" width="170px" height="130px" alt="جانب من المنتدى" title="جانب من المنتدى" class="img-responsive" onerror="this.src='https://img.youm7.com/images/graphics/erorr-img-med.jpg'" />
+                                </a>
+                                <h3>
+                                    <a href="/story/2024/9/24/وزيرة-التخطيط-والتعاون-الدولى-تلتقى-ممثلى-منتدى-شباب-العالم-المصرى/6718435"> وزيرة التخطيط والتعاون الدولى تلتقى ممثلى &quot;منتدى شباب العالم&quot; المصرى بنيويورك </a>
+                                </h3>
+                            </div>                            <!--Small One Style2-->
+                            <div class="smallSection">
+                                <a href="/story/2024/9/24/سعر-الذهب-فى-مصر-يسجل-أعلى-مستوى-منذ-فبراير-2024/6718338">
+                                    <img src="https://img.youm7.com/Medium/20230315070933933.jpg" width="170px" height="130px" alt="مشغولات ذهبية" title="مشغولات ذهبية" class="img-responsive" onerror="this.src='https://img.youm7.com/images/graphics/erorr-img-med.jpg'" />
+                                </a>
+                                <h3>
+                                    <a href="/story/2024/9/24/سعر-الذهب-فى-مصر-يسجل-أعلى-مستوى-منذ-فبراير-2024/6718338"> سعر الذهب فى مصر يسجل أعلى مستوى منذ فبراير 2024.. الجرام بـ3575 جنيها </a>
+                                </h3>
+                            </div>                            <!--Small One Style2-->
+                            <div class="smallSection">
+                                <a href="/story/2024/9/24/وزير-البترول-يفتتح-ورشة-عمل-للترويج-للمزايدة-العالمية-للتنقيب-فى/6718517">
+                                    <img src="https://img.youm7.com/Medium/202409240411281128.jpg" width="170px" height="130px" alt="وزير البترول خلال اللقاء" title="وزير البترول خلال اللقاء" class="img-responsive" onerror="this.src='https://img.youm7.com/images/graphics/erorr-img-med.jpg'" />
+                                </a>
+                                <h3>
+                                    <a href="/story/2024/9/24/وزير-البترول-يفتتح-ورشة-عمل-للترويج-للمزايدة-العالمية-للتنقيب-فى/6718517"> وزير البترول يفتتح ورشة عمل للترويج للمزايدة العالمية للتنقيب فى 12قطاعا </a>
+                                </h3>
+                            </div>                        <div class="col-xs-12 mor-section">
+                            <a href="/Section/%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-%D9%88%D8%A8%D9%88%D8%B1%D8%B5%D8%A9/297/1">
+                                <img src="/images/more.gif" width="55px" height="16px" class="img-responsive" alt="more" title="المزيد" />
+                            </a>
+                        </div>
+                    </div>            <!--Small Sections-->                     <div class="col-xs-4 smallSections">
+                        <!--Title-->
+                        <h2>
+                            <a href="/Section/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9/298/1">أخبار الرياضة</a>
+                        </h2>
+                            <!--Small One Style2-->
+                            <div class="smallSection">
+                                <a href="/story/2024/9/24/حسام-عاشور-لـ-اليوم-السابع-حكم-فضيحة-إينرامو-اعترف-بحصوله/6718526">
+                                    <img src="https://img.youm7.com/Medium/202409240546424642.jpg" width="170px" height="130px" alt="حسام عاشور خلال تواجده في اليوم السابع" title="حسام عاشور خلال تواجده في اليوم السابع" class="img-responsive" onerror="this.src='https://img.youm7.com/images/graphics/erorr-img-med.jpg'" />
+                                </a>
+                                <h3>
+                                    <a href="/story/2024/9/24/حسام-عاشور-لـ-اليوم-السابع-حكم-فضيحة-إينرامو-اعترف-بحصوله/6718526"> حسام عاشور لـ اليوم السابع: حكم فضيحة إينرامو اعترف بحصوله على رشوة ضد الأهلى </a>
+                                </h3>
+                            </div>                            <!--Small One Style2-->
+                            <div class="smallSection">
+                                <a href="/story/2024/9/24/ختام-اختبارات-كابيتانو-مصر-بمحافظة-بنى-سويف-بحضور-الصقر-أحمد/6718527">
+                                    <img src="https://img.youm7.com/Medium/202208220411291129.jpg" width="170px" height="130px" alt="كابيتانو" title="كابيتانو" class="img-responsive" onerror="this.src='https://img.youm7.com/images/graphics/erorr-img-med.jpg'" />
+                                </a>
+                                <h3>
+                                    <a href="/story/2024/9/24/ختام-اختبارات-كابيتانو-مصر-بمحافظة-بنى-سويف-بحضور-الصقر-أحمد/6718527"> ختام اختبارات كابيتانو مصر بمحافظة بنى سويف بحضور الصقر أحمد حسن </a>
+                                </h3>
+                            </div>                            <!--Small One Style2-->
+                            <div class="smallSection">
+                                <a href="/story/2024/9/24/الزمالك-يهزم-دلفى-فى-ثان-جولات-دورى-محترفى-اليد/6718594">
+                                    <img src="https://img.youm7.com/Medium/20240924053603363.jpg" width="170px" height="130px" alt="فريق كرة اليد بنادى الزمالك" title="فريق كرة اليد بنادى الزمالك" class="img-responsive" onerror="this.src='https://img.youm7.com/images/graphics/erorr-img-med.jpg'" />
+                                </a>
+                                <h3>
+                                    <a href="/story/2024/9/24/الزمالك-يهزم-دلفى-فى-ثان-جولات-دورى-محترفى-اليد/6718594"> الزمالك يهزم دلفى فى ثان جولات دورى محترفى اليد </a>
+                                </h3>
+                            </div>                            <!--Small One Style2-->
+                            <div class="smallSection">
+                                <a href="/story/2024/9/24/علا-الشافعي-تُهدي-حسام-عاشور-درع-اليوم-السابع-صور/6718360">
+                                    <img src="https://img.youm7.com/Medium/20240924052207227.jpg" width="170px" height="130px" alt="صورة حسام عاشور" title="صورة حسام عاشور" class="img-responsive" onerror="this.src='https://img.youm7.com/images/graphics/erorr-img-med.jpg'" />
+                                </a>
+                                <h3>
+                                    <a href="/story/2024/9/24/علا-الشافعي-تُهدي-حسام-عاشور-درع-اليوم-السابع-صور/6718360"> علا الشافعي تُهدي حسام عاشور درع &quot;اليوم السابع&quot;.. صور </a>
+                                </h3>
+                            </div>                            <!--Small One Style2-->
+                            <div class="smallSection">
+                                <a href="/story/2024/9/24/محمد-حسن-وطارق-سامى-يديران-لقاء-باراجواى-وأفغانستان-فى-مونديال/6718569">
+                                    <img src="https://img.youm7.com/Medium/20210903050720720.jpg" width="170px" height="130px" alt="طارق سامي ومحمد حسن" title="طارق سامي ومحمد حسن" class="img-responsive" onerror="this.src='https://img.youm7.com/images/graphics/erorr-img-med.jpg'" />
+                                </a>
+                                <h3>
+                                    <a href="/story/2024/9/24/محمد-حسن-وطارق-سامى-يديران-لقاء-باراجواى-وأفغانستان-فى-مونديال/6718569"> محمد حسن وطارق سامى يديران لقاء باراجواى وأفغانستان فى مونديال الصالات </a>
+                                </h3>
+                            </div>                        <div class="col-xs-12 mor-section">
+                            <a href="/Section/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9/298/1">
+                                <img src="/images/more.gif" width="55px" height="16px" class="img-responsive" alt="more" title="المزيد" />
+                            </a>
+                        </div>
+                    </div>            <!--Small Sections-->                     <div class="col-xs-4 smallSections">
+                        <!--Title-->
+                        <h2>
+                            <a href="/Section/%D9%83%D8%B1%D8%A9-%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A9/332/1">كرة عالمية</a>
+                        </h2>
+                            <!--Small One Style2-->
+                            <div class="smallSection">
+                                <a href="/story/2024/9/24/10-حراس-بالمجان-لتعويض-تير-شتيجن-فى-برشلونة-نافاس-على/6717871">
+                                    <img src="https://img.youm7.com/Medium/202312041255115511.jpg" width="170px" height="130px" alt="تير شتيجن حارس برشلونة" title="تير شتيجن حارس برشلونة" class="img-responsive" onerror="this.src='https://img.youm7.com/images/graphics/erorr-img-med.jpg'" />
+                                </a>
+                                <h3>
+                                    <a href="/story/2024/9/24/10-حراس-بالمجان-لتعويض-تير-شتيجن-فى-برشلونة-نافاس-على/6717871"> 10 حراس بالمجان لتعويض تير شتيجن فى برشلونة.. نافاس على رأس القائمة </a>
+                                </h3>
+                            </div>                            <!--Small One Style2-->
+                            <div class="smallSection">
+                                <a href="/story/2024/9/24/لاعبو-ريال-مدريد-وبرشلونة-يتصدرون-التشكيل-المثالى-للمصابين-فى-الدورى/6717777">
+                                    <img src="https://img.youm7.com/Medium/20240915062106216.jpg" width="170px" height="130px" alt="إبراهيم دياز" title="إبراهيم دياز" class="img-responsive" onerror="this.src='https://img.youm7.com/images/graphics/erorr-img-med.jpg'" />
+                                </a>
+                                <h3>
+                                    <a href="/story/2024/9/24/لاعبو-ريال-مدريد-وبرشلونة-يتصدرون-التشكيل-المثالى-للمصابين-فى-الدورى/6717777"> لاعبو ريال مدريد وبرشلونة يتصدرون التشكيل المثالى للمصابين فى الدورى الإسبانى </a>
+                                </h3>
+                            </div>                            <!--Small One Style2-->
+                            <div class="smallSection">
+                                <a href="/story/2024/9/24/تشافى-يرفض-خلافة-دى-روسى-فى-تدريب-روما/6718531">
+                                    <img src="https://img.youm7.com/Medium/202401150936473647.jpg" width="170px" height="130px" alt="تشافي هيرنانديز" title="تشافي هيرنانديز" class="img-responsive" onerror="this.src='https://img.youm7.com/images/graphics/erorr-img-med.jpg'" />
+                                </a>
+                                <h3>
+                                    <a href="/story/2024/9/24/تشافى-يرفض-خلافة-دى-روسى-فى-تدريب-روما/6718531"> تشافى يرفض خلافة دى روسى فى تدريب روما </a>
+                                </h3>
+                            </div>                            <!--Small One Style2-->
+                            <div class="smallSection">
+                                <a href="/story/2024/9/24/مولر-طريقة-لعب-كومبانى-أعادت-بايرن-ميونخ-للمسار-الصحيح/6718494">
+                                    <img src="https://img.youm7.com/Medium/20240309054806486.jpg" width="170px" height="130px" alt="توماس مولر" title="توماس مولر" class="img-responsive" onerror="this.src='https://img.youm7.com/images/graphics/erorr-img-med.jpg'" />
+                                </a>
+                                <h3>
+                                    <a href="/story/2024/9/24/مولر-طريقة-لعب-كومبانى-أعادت-بايرن-ميونخ-للمسار-الصحيح/6718494"> مولر: طريقة لعب كومبانى أعادت بايرن ميونخ للمسار الصحيح </a>
+                                </h3>
+                            </div>                            <!--Small One Style2-->
+                            <div class="smallSection">
+                                <a href="/story/2024/9/24/أرتيتا-أوديجارد-يحتاج-أسابيع-للعودة-ونسعى-للفوز-على-بولتون/6718432">
+                                    <img src="https://img.youm7.com/Medium/20240924032000200.jpg" width="170px" height="130px" alt="ميكيل ارتيتا" title="ميكيل ارتيتا" class="img-responsive" onerror="this.src='https://img.youm7.com/images/graphics/erorr-img-med.jpg'" />
+                                </a>
+                                <h3>
+                                    <a href="/story/2024/9/24/أرتيتا-أوديجارد-يحتاج-أسابيع-للعودة-ونسعى-للفوز-على-بولتون/6718432"> أرتيتا: أوديجارد يحتاج أسابيع للعودة.. ونسعى للفوز على بولتون </a>
+                                </h3>
+                            </div>                        <div class="col-xs-12 mor-section">
+                            <a href="/Section/%D9%83%D8%B1%D8%A9-%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A9/332/1">
+                                <img src="/images/more.gif" width="55px" height="16px" class="img-responsive" alt="more" title="المزيد" />
+                            </a>
+                        </div>
+                    </div>            <!--Small Sections-->                     <div class="col-xs-4 smallSections">
+                        <!--Title-->
+                        <h2>
+                            <a href="/Section/%D9%81%D9%8A%D8%AF%D9%8A%D9%88-7/355/1">فيديو 7</a>
+                        </h2>
+                            <!--Small One Style2-->
+                            <div class="smallSection">
+                                <a href="/story/2024/9/24/شوف-قصة-المهندسة-شيماء-مع-العقارب-بقنا-بث-مباشر/6718005">
+                                    <img src="https://img.youm7.com/Medium/20240924110322322.jpg" width="170px" height="130px" alt="المهندسة شيماء مع العقارب " title="المهندسة شيماء مع العقارب " class="img-responsive" onerror="this.src='https://img.youm7.com/images/graphics/erorr-img-med.jpg'" />
+                                </a>
+                                <h3>
+                                    <a href="/story/2024/9/24/شوف-قصة-المهندسة-شيماء-مع-العقارب-بقنا-بث-مباشر/6718005"> شوف قصة المهندسة شيماء مع العقارب بقنا.. بث مباشر </a>
+                                </h3>
+                            </div>                            <!--Small One Style2-->
+                            <div class="smallSection">
+                                <a href="/story/2024/9/24/شاهد-كواليس-السوبر-لحظة-بلحظة-الزمالك-يتحفظ-على-الحكم-ودارى/6718231">
+                                    <img src="https://img.youm7.com/Medium/202409240114161416.jpg" width="170px" height="130px" alt="تغطية تليفزيون اليوم السابع لكواليس السوبر الأفريقى" title="تغطية تليفزيون اليوم السابع لكواليس السوبر الأفريقى" class="img-responsive" onerror="this.src='https://img.youm7.com/images/graphics/erorr-img-med.jpg'" />
+                                </a>
+                                <h3>
+                                    <a href="/story/2024/9/24/شاهد-كواليس-السوبر-لحظة-بلحظة-الزمالك-يتحفظ-على-الحكم-ودارى/6718231"> شاهد كواليس السوبر لحظة بلحظة.. الزمالك يتحفظ على الحكم.. ودارى يقترب من قائمة الأهلى </a>
+                                </h3>
+                            </div>                            <!--Small One Style2-->
+                            <div class="smallSection">
+                                <a href="/story/2024/9/24/ارتفاع-معدل-الأمطار-الأرصاد-تكشف-تفاصيل-الظواهر-الجوية-خلال-الخريف/6718312">
+                                    <img src="https://img.youm7.com/Medium/202409240156315631.jpg" width="170px" height="130px" alt="سارة إسماعيل مذيعة اليوم السابع " title="سارة إسماعيل مذيعة اليوم السابع " class="img-responsive" onerror="this.src='https://img.youm7.com/images/graphics/erorr-img-med.jpg'" />
+                                </a>
+                                <h3>
+                                    <a href="/story/2024/9/24/ارتفاع-معدل-الأمطار-الأرصاد-تكشف-تفاصيل-الظواهر-الجوية-خلال-الخريف/6718312"> ارتفاع معدل الأمطار.. الأرصاد تكشف تفاصيل الظواهر الجوية خلال الخريف.. فيديو </a>
+                                </h3>
+                            </div>                            <!--Small One Style2-->
+                            <div class="smallSection">
+                                <a href="/story/2024/9/24/تفاصيل-التهام-النيران-للحى-الشعبي-فى-مدينة-الإنتاج-الإعلامى-بالكامل/6718175">
+                                    <img src="https://img.youm7.com/Medium/202409241237533753.jpg" width="170px" height="130px" alt="سارة إسماعيل مذيعة اليوم السابع " title="سارة إسماعيل مذيعة اليوم السابع " class="img-responsive" onerror="this.src='https://img.youm7.com/images/graphics/erorr-img-med.jpg'" />
+                                </a>
+                                <h3>
+                                    <a href="/story/2024/9/24/تفاصيل-التهام-النيران-للحى-الشعبي-فى-مدينة-الإنتاج-الإعلامى-بالكامل/6718175"> تفاصيل التهام النيران للحى الشعبي فى مدينة الإنتاج الإعلامى بالكامل.. فيديو </a>
+                                </h3>
+                            </div>                            <!--Small One Style2-->
+                            <div class="smallSection">
+                                <a href="/story/2024/9/24/للآباء-والأمهات-استشارى-نفسى-هيقولك-نصائح-للتعامل-مع-أولادك-لحمايتهم/6718042">
+                                    <img src="https://img.youm7.com/Medium/20240924115705575.jpg" width="170px" height="130px" alt="الزميلة سارة اسماعيل" title="الزميلة سارة اسماعيل" class="img-responsive" onerror="this.src='https://img.youm7.com/images/graphics/erorr-img-med.jpg'" />
+                                </a>
+                                <h3>
+                                    <a href="/story/2024/9/24/للآباء-والأمهات-استشارى-نفسى-هيقولك-نصائح-للتعامل-مع-أولادك-لحمايتهم/6718042"> للآباء والأمهات.. استشارى نفسى هيقولك نصائح للتعامل مع أولادك لحمايتهم من التطرف </a>
+                                </h3>
+                            </div>                        <div class="col-xs-12 mor-section">
+                            <a href="/Section/%D9%81%D9%8A%D8%AF%D9%8A%D9%88-7/355/1">
+                                <img src="/images/more.gif" width="55px" height="16px" class="img-responsive" alt="more" title="المزيد" />
+                            </a>
+                        </div>
+                    </div>            <!--Small Sections-->                     <div class="col-xs-4 smallSections">
+                        <!--Title-->
+                        <h2>
+                            <a href="/Section/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9/88/1">أخبار عربية</a>
+                        </h2>
+                            <!--Small One Style2-->
+                            <div class="smallSection">
+                                <a href="/story/2024/9/24/وزير-النقل-العراقي-يعلن-تأسيس-الهيئة-البحرية-المشتركة-مع-بريطانيا/6718633">
+                                    <img src="https://img.youm7.com/Medium/s10201010164316.jpg" width="170px" height="130px" alt="العراق " title="العراق " class="img-responsive" onerror="this.src='https://img.youm7.com/images/graphics/erorr-img-med.jpg'" />
+                                </a>
+                                <h3>
+                                    <a href="/story/2024/9/24/وزير-النقل-العراقي-يعلن-تأسيس-الهيئة-البحرية-المشتركة-مع-بريطانيا/6718633"> وزير النقل العراقي يعلن تأسيس الهيئة البحرية المشتركة مع بريطانيا </a>
+                                </h3>
+                            </div>                            <!--Small One Style2-->
+                            <div class="smallSection">
+                                <a href="/story/2024/9/24/لبنان-يغلق-جميع-حضانات-الأطفال-بسبب-العدوان-الإسرائيلي/6718602">
+                                    <img src="https://img.youm7.com/Medium/202409200539313931.jpg" width="170px" height="130px" alt="قصف الضاحية الجنوبية- أرشيفية " title="قصف الضاحية الجنوبية- أرشيفية " class="img-responsive" onerror="this.src='https://img.youm7.com/images/graphics/erorr-img-med.jpg'" />
+                                </a>
+                                <h3>
+                                    <a href="/story/2024/9/24/لبنان-يغلق-جميع-حضانات-الأطفال-بسبب-العدوان-الإسرائيلي/6718602"> لبنان يغلق جميع حضانات الأطفال بسبب العدوان الإسرائيلي </a>
+                                </h3>
+                            </div>                            <!--Small One Style2-->
+                            <div class="smallSection">
+                                <a href="/story/2024/9/24/البرهان-يتوجه-لنيويورك-للمشاركة-في-اجتماعات-الجمعية-العامة-للأمم-المتحدة/6718564">
+                                    <img src="https://img.youm7.com/Medium/202309211110291029.jpg" width="170px" height="130px" alt="البرهان" title="البرهان" class="img-responsive" onerror="this.src='https://img.youm7.com/images/graphics/erorr-img-med.jpg'" />
+                                </a>
+                                <h3>
+                                    <a href="/story/2024/9/24/البرهان-يتوجه-لنيويورك-للمشاركة-في-اجتماعات-الجمعية-العامة-للأمم-المتحدة/6718564"> البرهان يتوجه لنيويورك للمشاركة في اجتماعات الجمعية العامة للأمم المتحدة </a>
+                                </h3>
+                            </div>                            <!--Small One Style2-->
+                            <div class="smallSection">
+                                <a href="/story/2024/9/24/منسقة-الأمم-المتحدة-بالسودان-تطالب-المجتمع-الدولى-بتكثيف-الجهود-لإنهاء/6718551">
+                                    <img src="https://img.youm7.com/Medium/202403291131513151.jpg" width="170px" height="130px" alt="الحرب فى السودان -أرشيفية" title="الحرب فى السودان -أرشيفية" class="img-responsive" onerror="this.src='https://img.youm7.com/images/graphics/erorr-img-med.jpg'" />
+                                </a>
+                                <h3>
+                                    <a href="/story/2024/9/24/منسقة-الأمم-المتحدة-بالسودان-تطالب-المجتمع-الدولى-بتكثيف-الجهود-لإنهاء/6718551"> منسقة الأمم المتحدة بالسودان تطالب المجتمع الدولى بتكثيف الجهود لإنهاء الصراع </a>
+                                </h3>
+                            </div>                            <!--Small One Style2-->
+                            <div class="smallSection">
+                                <a href="/story/2024/9/24/حزب-الله-يستهدف-المخازن-الرئيسية-فى-قاعدة-نيمرا-العسكرية-الإسرائيلية/6718519">
+                                    <img src="https://img.youm7.com/Medium/202409230456585658.jpg" width="170px" height="130px" alt="قصف لبنان" title="قصف لبنان" class="img-responsive" onerror="this.src='https://img.youm7.com/images/graphics/erorr-img-med.jpg'" />
+                                </a>
+                                <h3>
+                                    <a href="/story/2024/9/24/حزب-الله-يستهدف-المخازن-الرئيسية-فى-قاعدة-نيمرا-العسكرية-الإسرائيلية/6718519"> حزب الله يستهدف المخازن الرئيسية فى قاعدة &quot;نيمرا&quot; العسكرية الإسرائيلية </a>
+                                </h3>
+                            </div>                        <div class="col-xs-12 mor-section">
+                            <a href="/Section/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9/88/1">
+                                <img src="/images/more.gif" width="55px" height="16px" class="img-responsive" alt="more" title="المزيد" />
+                            </a>
+                        </div>
+                    </div>            <!--Small Sections-->                     <div class="col-xs-4 smallSections">
+                        <!--Title-->
+                        <h2>
+                            <a href="/Section/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A9/286/1">أخبار عالمية</a>
+                        </h2>
+                            <!--Small One Style2-->
+                            <div class="smallSection">
+                                <a href="/story/2024/9/24/جوتيريش-النظام-العالمي-فشل-في-إيجاد-الحلول-لتفشي-وانتشار-العنف/6718632">
+                                    <img src="https://img.youm7.com/Medium/202310261026322632.jpg" width="170px" height="130px" alt="جوتيريش" title="جوتيريش" class="img-responsive" onerror="this.src='https://img.youm7.com/images/graphics/erorr-img-med.jpg'" />
+                                </a>
+                                <h3>
+                                    <a href="/story/2024/9/24/جوتيريش-النظام-العالمي-فشل-في-إيجاد-الحلول-لتفشي-وانتشار-العنف/6718632"> جوتيريش: النظام العالمي فشل في إيجاد الحلول لتفشي وانتشار العنف </a>
+                                </h3>
+                            </div>                            <!--Small One Style2-->
+                            <div class="smallSection">
+                                <a href="/story/2024/9/24/الصحة-العالمية-‌-المنشآت-الصحية-بالسودان-تلقت-أكثر-من-100/6718549">
+                                    <img src="https://img.youm7.com/Medium/202401230213471347.jpg" width="170px" height="130px" alt="الدكتورة حنان بلخى" title="الدكتورة حنان بلخى" class="img-responsive" onerror="this.src='https://img.youm7.com/images/graphics/erorr-img-med.jpg'" />
+                                </a>
+                                <h3>
+                                    <a href="/story/2024/9/24/الصحة-العالمية-‌-المنشآت-الصحية-بالسودان-تلقت-أكثر-من-100/6718549"> الصحة العالمية:‌ المنشآت الصحية بالسودان تلقت أكثر من 100 هجوم منذ بدء الصراع </a>
+                                </h3>
+                            </div>                            <!--Small One Style2-->
+                            <div class="smallSection">
+                                <a href="/story/2024/9/24/الرئيس-السريلانكي-الجديد-يعين-النائبة-هاريني-أماراسوريا-رئيسة-للوزراء/6718556">
+                                    <img src="https://img.youm7.com/Medium/20240924050314314.jpg" width="170px" height="130px" alt="الرئيس السريلانكي أنورا كومارا ديساناياكى" title="الرئيس السريلانكي أنورا كومارا ديساناياكى" class="img-responsive" onerror="this.src='https://img.youm7.com/images/graphics/erorr-img-med.jpg'" />
+                                </a>
+                                <h3>
+                                    <a href="/story/2024/9/24/الرئيس-السريلانكي-الجديد-يعين-النائبة-هاريني-أماراسوريا-رئيسة-للوزراء/6718556"> الرئيس السريلانكي الجديد يعين النائبة هاريني أماراسوريا رئيسة للوزراء </a>
+                                </h3>
+                            </div>                            <!--Small One Style2-->
+                            <div class="smallSection">
+                                <a href="/story/2024/9/24/الجيش-الروسى-يكبد-القوات-الأوكرانية-خسائر-فادحة-فى-مقاطعة-كورسك/6718525">
+                                    <img src="https://img.youm7.com/Medium/202202241158525852.jpg" width="170px" height="130px" alt="الحرب الروسية الأوكرانية" title="الحرب الروسية الأوكرانية" class="img-responsive" onerror="this.src='https://img.youm7.com/images/graphics/erorr-img-med.jpg'" />
+                                </a>
+                                <h3>
+                                    <a href="/story/2024/9/24/الجيش-الروسى-يكبد-القوات-الأوكرانية-خسائر-فادحة-فى-مقاطعة-كورسك/6718525"> الجيش الروسى يكبد القوات الأوكرانية خسائر فادحة فى مقاطعة كورسك </a>
+                                </h3>
+                            </div>                            <!--Small One Style2-->
+                            <div class="smallSection">
+                                <a href="/story/2024/9/24/ألمانيا-إصابة-14-شخصا-بحادث-قطار-فى-شمال-الراين/6718463">
+                                    <img src="https://img.youm7.com/Medium/small62009231237.jpg" width="170px" height="130px" alt="حادث قطار - أرشيفية" title="حادث قطار - أرشيفية" class="img-responsive" onerror="this.src='https://img.youm7.com/images/graphics/erorr-img-med.jpg'" />
+                                </a>
+                                <h3>
+                                    <a href="/story/2024/9/24/ألمانيا-إصابة-14-شخصا-بحادث-قطار-فى-شمال-الراين/6718463"> ألمانيا.. إصابة 14 شخصا بحادث قطار فى شمال الراين  </a>
+                                </h3>
+                            </div>                        <div class="col-xs-12 mor-section">
+                            <a href="/Section/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A9/286/1">
+                                <img src="/images/more.gif" width="55px" height="16px" class="img-responsive" alt="more" title="المزيد" />
+                            </a>
+                        </div>
+                    </div>            <!--Small Sections-->                     <div class="col-xs-4 smallSections">
+                        <!--Title-->
+                        <h2>
+                            <a href="/Section/%D8%AB%D9%82%D8%A7%D9%81%D8%A9/94/1">ثقافة</a>
+                        </h2>
+                            <!--Small One Style2-->
+                            <div class="smallSection">
+                                <a href="/story/2024/9/24/مثلث-تدمير-الشعوب-إيه-الفرق-بين-التشدد-والتطرف-والإرهاب/6718500">
+                                    <img src="https://img.youm7.com/Medium/202409240351245124.jpg" width="170px" height="130px" alt="كتاب مدخل إلى فهم التطرف" title="كتاب مدخل إلى فهم التطرف" class="img-responsive" onerror="this.src='https://img.youm7.com/images/graphics/erorr-img-med.jpg'" />
+                                </a>
+                                <h3>
+                                    <a href="/story/2024/9/24/مثلث-تدمير-الشعوب-إيه-الفرق-بين-التشدد-والتطرف-والإرهاب/6718500"> مثلث تدمير الشعوب.. إيه الفرق بين التشدد والتطرف والإرهاب؟ </a>
+                                </h3>
+                            </div>                            <!--Small One Style2-->
+                            <div class="smallSection">
+                                <a href="/story/2024/9/24/هيئة-الكتاب-تشارك-بـ500-عنوان-فى-معرض-الكتاب-بنقابة-الصحفيين/6718536">
+                                    <img src="https://img.youm7.com/Medium/202407091032383238.jpg" width="170px" height="130px" alt="نقابة الصحفيين" title="نقابة الصحفيين" class="img-responsive" onerror="this.src='https://img.youm7.com/images/graphics/erorr-img-med.jpg'" />
+                                </a>
+                                <h3>
+                                    <a href="/story/2024/9/24/هيئة-الكتاب-تشارك-بـ500-عنوان-فى-معرض-الكتاب-بنقابة-الصحفيين/6718536"> هيئة الكتاب تشارك بـ500 عنوان فى معرض الكتاب بنقابة الصحفيين </a>
+                                </h3>
+                            </div>                            <!--Small One Style2-->
+                            <div class="smallSection">
+                                <a href="/story/2024/9/24/حفيد-رئيس-وزراء-إيطالى-يعيد-مزهرية-قديمة-أهدتها-الحكومة-اليونانية/6718419">
+                                    <img src="https://img.youm7.com/Medium/20240924031500150.jpg" width="170px" height="130px" alt="مزهرية يونانية" title="مزهرية يونانية" class="img-responsive" onerror="this.src='https://img.youm7.com/images/graphics/erorr-img-med.jpg'" />
+                                </a>
+                                <h3>
+                                    <a href="/story/2024/9/24/حفيد-رئيس-وزراء-إيطالى-يعيد-مزهرية-قديمة-أهدتها-الحكومة-اليونانية/6718419"> حفيد رئيس وزراء إيطالى يعيد مزهرية قديمة أهدتها الحكومة اليونانية لجده </a>
+                                </h3>
+                            </div>                            <!--Small One Style2-->
+                            <div class="smallSection">
+                                <a href="/story/2024/9/24/انطلاق-معرض-الرياض-الدولى-للكتاب-بدورته-الجديدة-بمشاركة-2000-دور/6717948">
+                                    <img src="https://img.youm7.com/Medium/202309271257555755.jpg" width="170px" height="130px" alt="معرض الرياض الدولى للكتاب" title="معرض الرياض الدولى للكتاب" class="img-responsive" onerror="this.src='https://img.youm7.com/images/graphics/erorr-img-med.jpg'" />
+                                </a>
+                                <h3>
+                                    <a href="/story/2024/9/24/انطلاق-معرض-الرياض-الدولى-للكتاب-بدورته-الجديدة-بمشاركة-2000-دور/6717948"> انطلاق معرض الرياض الدولى للكتاب بدورته الجديدة بمشاركة 2000 دور نشر </a>
+                                </h3>
+                            </div>                            <!--Small One Style2-->
+                            <div class="smallSection">
+                                <a href="/story/2024/9/24/وزير-الثقافة-يكرم-السوبرانو-فاطمة-سعيد-لفوزها-بجائزة-الثقافة-الأوروبية/6718523">
+                                    <img src="https://img.youm7.com/Medium/20240924041308138.jpg" width="170px" height="130px" alt="وزير الثقافة وفاطمة سعيد" title="وزير الثقافة وفاطمة سعيد" class="img-responsive" onerror="this.src='https://img.youm7.com/images/graphics/erorr-img-med.jpg'" />
+                                </a>
+                                <h3>
+                                    <a href="/story/2024/9/24/وزير-الثقافة-يكرم-السوبرانو-فاطمة-سعيد-لفوزها-بجائزة-الثقافة-الأوروبية/6718523"> وزير الثقافة يكرم السوبرانو فاطمة سعيد لفوزها بجائزة الثقافة الأوروبية </a>
+                                </h3>
+                            </div>                        <div class="col-xs-12 mor-section">
+                            <a href="/Section/%D8%AB%D9%82%D8%A7%D9%81%D8%A9/94/1">
+                                <img src="/images/more.gif" width="55px" height="16px" class="img-responsive" alt="more" title="المزيد" />
+                            </a>
+                        </div>
+                    </div>            <!--Small Sections-->                     <div class="col-xs-4 smallSections">
+                        <!--Title-->
+                        <h2>
+                            <a href="/Section/%D9%81%D9%86/48/1">فن</a>
+                        </h2>
+                            <!--Small One Style2-->
+                            <div class="smallSection">
+                                <a href="/story/2024/9/24/برغم-القانون-الحلقة-8-ليلى-تتأكد-من-تواجد-أكرم-بالمستشفى/6718135">
+                                    <img src="https://img.youm7.com/Medium/202409241219291929.jpg" width="170px" height="130px" alt="ايمان العاصى" title="ايمان العاصى" class="img-responsive" onerror="this.src='https://img.youm7.com/images/graphics/erorr-img-med.jpg'" />
+                                </a>
+                                <h3>
+                                    <a href="/story/2024/9/24/برغم-القانون-الحلقة-8-ليلى-تتأكد-من-تواجد-أكرم-بالمستشفى/6718135"> برغم القانون الحلقة 8.. ليلى تتأكد من تواجد أكرم بالمستشفى بمساعدة محمود </a>
+                                </h3>
+                            </div>                            <!--Small One Style2-->
+                            <div class="smallSection">
+                                <a href="/story/2024/9/24/إيساف-يستقبل-العزاء-في-شقيقه-غدا-بعد-صلاة-المغرب/6718577">
+                                    <img src="https://img.youm7.com/Medium/202409241118401840.jpg" width="170px" height="130px" alt="إيساف وشقيقه" title="إيساف وشقيقه" class="img-responsive" onerror="this.src='https://img.youm7.com/images/graphics/erorr-img-med.jpg'" />
+                                </a>
+                                <h3>
+                                    <a href="/story/2024/9/24/إيساف-يستقبل-العزاء-في-شقيقه-غدا-بعد-صلاة-المغرب/6718577"> إيساف يستقبل العزاء في شقيقه غدا بعد صلاة المغرب </a>
+                                </h3>
+                            </div>                            <!--Small One Style2-->
+                            <div class="smallSection">
+                                <a href="/story/2024/9/24/حفل-لفرقة-المايسترو-إيمان-جنيدي-في-معهد-الموسيقى-العربية-الخميس/6718580">
+                                    <img src="https://img.youm7.com/Medium/202409240520122012.jpg" width="170px" height="130px" alt="المايسترو إيمان جنيدى" title="المايسترو إيمان جنيدى" class="img-responsive" onerror="this.src='https://img.youm7.com/images/graphics/erorr-img-med.jpg'" />
+                                </a>
+                                <h3>
+                                    <a href="/story/2024/9/24/حفل-لفرقة-المايسترو-إيمان-جنيدي-في-معهد-الموسيقى-العربية-الخميس/6718580"> حفل لفرقة المايسترو إيمان جنيدي في معهد الموسيقى العربية.. الخميس </a>
+                                </h3>
+                            </div>                            <!--Small One Style2-->
+                            <div class="smallSection">
+                                <a href="/story/2024/9/24/وفاة-عازف-الجيتار-الأسطوري-فريدي-سالم-عن-عمر-70-عاماً/6718588">
+                                    <img src="https://img.youm7.com/Medium/202409240529492949.jpg" width="170px" height="130px" alt="فريدي سالم" title="فريدي سالم" class="img-responsive" onerror="this.src='https://img.youm7.com/images/graphics/erorr-img-med.jpg'" />
+                                </a>
+                                <h3>
+                                    <a href="/story/2024/9/24/وفاة-عازف-الجيتار-الأسطوري-فريدي-سالم-عن-عمر-70-عاماً/6718588"> وفاة عازف الجيتار الأسطوري فريدي سالم عن عمر 70 عاماً بسبب السرطان </a>
+                                </h3>
+                            </div>                            <!--Small One Style2-->
+                            <div class="smallSection">
+                                <a href="/story/2024/9/24/فيلم-عاشق-يحصد-12-8-مليون-جنيه-إيرادات-خلال-13/6718227">
+                                    <img src="https://img.youm7.com/Medium/202409070416161616.jpg" width="170px" height="130px" alt="فيلم عاشق" title="فيلم عاشق" class="img-responsive" onerror="this.src='https://img.youm7.com/images/graphics/erorr-img-med.jpg'" />
+                                </a>
+                                <h3>
+                                    <a href="/story/2024/9/24/فيلم-عاشق-يحصد-12-8-مليون-جنيه-إيرادات-خلال-13/6718227"> فيلم عاشق يحصد 12.8 مليون جنيه إيرادات خلال 13 يوم عرض </a>
+                                </h3>
+                            </div>                        <div class="col-xs-12 mor-section">
+                            <a href="/Section/%D9%81%D9%86/48/1">
+                                <img src="/images/more.gif" width="55px" height="16px" class="img-responsive" alt="more" title="المزيد" />
+                            </a>
+                        </div>
+                    </div>            <!--Small Sections-->                     <div class="col-xs-4 smallSections">
+                        <!--Title-->
+                        <h2>
+                            <a href="/Section/%D8%AA%D9%84%D9%8A%D9%81%D8%B2%D9%8A%D9%88%D9%86/251/1">تليفزيون</a>
+                        </h2>
+                            <!--Small One Style2-->
+                            <div class="smallSection">
+                                <a href="/story/2024/9/24/خالد-الجندى-قضية-الإلحاد-موقف-نفسى-وليس-فكريا-لأغلبية-الشباب/6718590">
+                                    <img src="https://img.youm7.com/Medium/202403180341574157.jpg" width="170px" height="130px" alt="الشيخ خالد الجندي" title="الشيخ خالد الجندي" class="img-responsive" onerror="this.src='https://img.youm7.com/images/graphics/erorr-img-med.jpg'" />
+                                </a>
+                                <h3>
+                                    <a href="/story/2024/9/24/خالد-الجندى-قضية-الإلحاد-موقف-نفسى-وليس-فكريا-لأغلبية-الشباب/6718590"> خالد الجندى: قضية الإلحاد موقف نفسى وليس فكريا لأغلبية الشباب </a>
+                                </h3>
+                            </div>                            <!--Small One Style2-->
+                            <div class="smallSection">
+                                <a href="/story/2024/9/24/عرض-مسلسل-جعفر-العمدة-بطولة-محمد-رمضان-على-قناتى-dmc/6718295">
+                                    <img src="https://img.youm7.com/Medium/202304111210121012.jpg" width="170px" height="130px" alt="جعفر العمدة " title="جعفر العمدة " class="img-responsive" onerror="this.src='https://img.youm7.com/images/graphics/erorr-img-med.jpg'" />
+                                </a>
+                                <h3>
+                                    <a href="/story/2024/9/24/عرض-مسلسل-جعفر-العمدة-بطولة-محمد-رمضان-على-قناتى-dmc/6718295"> عرض مسلسل جعفر العمدة بطولة محمد رمضان على قناتى dmc وdmc دراما </a>
+                                </h3>
+                            </div>                            <!--Small One Style2-->
+                            <div class="smallSection">
+                                <a href="/story/2024/9/24/اليونيفيل-عدوان-إسرائيل-على-لبنان-غير-مسبوق-ونبذل-قصارى-الجهد/6718367">
+                                    <img src="https://img.youm7.com/Medium/smal120102819258.jpg" width="170px" height="130px" alt="قوات اليونيفيل فى لبنان" title="قوات اليونيفيل فى لبنان" class="img-responsive" onerror="this.src='https://img.youm7.com/images/graphics/erorr-img-med.jpg'" />
+                                </a>
+                                <h3>
+                                    <a href="/story/2024/9/24/اليونيفيل-عدوان-إسرائيل-على-لبنان-غير-مسبوق-ونبذل-قصارى-الجهد/6718367"> اليونيفيل: عدوان إسرائيل على لبنان غير مسبوق ونبذل قصارى الجهد للتهدئة </a>
+                                </h3>
+                            </div>                            <!--Small One Style2-->
+                            <div class="smallSection">
+                                <a href="/story/2024/9/24/أشرف-عبد-الباقى-يروى-قصة-زواجه-فى-برنامج-سولد-آوت/6718177">
+                                    <img src="https://img.youm7.com/Medium/202409241238133813.jpg" width="170px" height="130px" alt="أشرف عبد الباقى ومحمود سعد" title="أشرف عبد الباقى ومحمود سعد" class="img-responsive" onerror="this.src='https://img.youm7.com/images/graphics/erorr-img-med.jpg'" />
+                                </a>
+                                <h3>
+                                    <a href="/story/2024/9/24/أشرف-عبد-الباقى-يروى-قصة-زواجه-فى-برنامج-سولد-آوت/6718177"> أشرف عبد الباقى يروى قصة زواجه فى برنامج سولد آوت مع محمود سعد.. فيديو </a>
+                                </h3>
+                            </div>                            <!--Small One Style2-->
+                            <div class="smallSection">
+                                <a href="/story/2024/9/24/قصة-فيلم-الألغام-قبل-عرضه-الأحد-على-شاشة-قناة-الوثائقية/6718217">
+                                    <img src="https://img.youm7.com/Medium/2024092401060464.jpg" width="170px" height="130px" alt="الألغام" title="الألغام" class="img-responsive" onerror="this.src='https://img.youm7.com/images/graphics/erorr-img-med.jpg'" />
+                                </a>
+                                <h3>
+                                    <a href="/story/2024/9/24/قصة-فيلم-الألغام-قبل-عرضه-الأحد-على-شاشة-قناة-الوثائقية/6718217"> قصة فيلم &quot;الألغام&quot; قبل عرضه الأحد على شاشة قناة &quot;الوثائقية&quot; </a>
+                                </h3>
+                            </div>                        <div class="col-xs-12 mor-section">
+                            <a href="/Section/%D8%AA%D9%84%D9%8A%D9%81%D8%B2%D9%8A%D9%88%D9%86/251/1">
+                                <img src="/images/more.gif" width="55px" height="16px" class="img-responsive" alt="more" title="المزيد" />
+                            </a>
+                        </div>
+                    </div>            <!--Small Sections-->                     <div class="col-xs-4 smallSections">
+                        <!--Title-->
+                        <h2>
+                            <a href="/Section/%D8%A7%D9%84%D9%85%D8%B1%D8%A3%D8%A9-%D9%88%D8%A7%D9%84%D9%85%D9%86%D9%88%D8%B9%D8%A7%D8%AA/89/1">المرأة والمنوعات</a>
+                        </h2>
+                            <!--Small One Style2-->
+                            <div class="smallSection">
+                                <a href="/story/2024/9/24/الإنصات-والأمان-5-خطوات-تقرب-بين-الآباء-والأبناء-وتحميهم-من/6717296">
+                                    <img src="https://img.youm7.com/Medium/20240923030532532.jpg" width="170px" height="130px" alt="أب وابنه " title="أب وابنه " class="img-responsive" onerror="this.src='https://img.youm7.com/images/graphics/erorr-img-med.jpg'" />
+                                </a>
+                                <h3>
+                                    <a href="/story/2024/9/24/الإنصات-والأمان-5-خطوات-تقرب-بين-الآباء-والأبناء-وتحميهم-من/6717296"> الإنصات والأمان.. 5 خطوات تقرب بين الآباء والأبناء وتحميهم من التطرف </a>
+                                </h3>
+                            </div>                            <!--Small One Style2-->
+                            <div class="smallSection">
+                                <a href="/story/2024/9/24/5-تريندات-لألوان-صبغة-الشعر-في-خريف-2024-الأحمر-بدرجاته/6712704">
+                                    <img src="https://img.youm7.com/Medium/20240919020635635.jpg" width="170px" height="130px" alt="لون النحاس المشمشى" title="لون النحاس المشمشى" class="img-responsive" onerror="this.src='https://img.youm7.com/images/graphics/erorr-img-med.jpg'" />
+                                </a>
+                                <h3>
+                                    <a href="/story/2024/9/24/5-تريندات-لألوان-صبغة-الشعر-في-خريف-2024-الأحمر-بدرجاته/6712704"> 5 تريندات لألوان صبغة الشعر في خريف 2024.. الأحمر بدرجاته موضة </a>
+                                </h3>
+                            </div>                            <!--Small One Style2-->
+                            <div class="smallSection">
+                                <a href="/story/2024/9/24/5-خطوات-تحل-أزمتك-لو-بتعاني-من-المقارنة-بإخواتك-زي/6718118">
+                                    <img src="https://img.youm7.com/Medium/20240924120847847.jpg" width="170px" height="130px" alt="تيتا زوزو" title="تيتا زوزو" class="img-responsive" onerror="this.src='https://img.youm7.com/images/graphics/erorr-img-med.jpg'" />
+                                </a>
+                                <h3>
+                                    <a href="/story/2024/9/24/5-خطوات-تحل-أزمتك-لو-بتعاني-من-المقارنة-بإخواتك-زي/6718118"> 5 خطوات تحل أزمتك لو بتعاني من المقارنة بإخواتك زي منى في مسلسل تيتا زوزو </a>
+                                </h3>
+                            </div>                            <!--Small One Style2-->
+                            <div class="smallSection">
+                                <a href="/story/2024/9/24/لو-جلدك-بيقشر-في-الخريف-زيوت-طبيعية-فعالة-في-ترطيب/6718185">
+                                    <img src="https://img.youm7.com/Medium/20240924010239239.jpg" width="170px" height="130px" alt="زيوت طبيعية " title="زيوت طبيعية " class="img-responsive" onerror="this.src='https://img.youm7.com/images/graphics/erorr-img-med.jpg'" />
+                                </a>
+                                <h3>
+                                    <a href="/story/2024/9/24/لو-جلدك-بيقشر-في-الخريف-زيوت-طبيعية-فعالة-في-ترطيب/6718185"> لو جلدك بيقشر في الخريف.. زيوت طبيعية فعالة في ترطيب الجسم والبشرة </a>
+                                </h3>
+                            </div>                            <!--Small One Style2-->
+                            <div class="smallSection">
+                                <a href="/story/2024/9/24/تغييرات-اعمليها-في-بيتك-مع-بداية-الخريف-لجذب-المشاعر-الإيجابية/6717254">
+                                    <img src="https://img.youm7.com/Medium/202409230232473247.jpg" width="170px" height="130px" alt="اضاءة المنزل.. صورة تعبيرية" title="اضاءة المنزل.. صورة تعبيرية" class="img-responsive" onerror="this.src='https://img.youm7.com/images/graphics/erorr-img-med.jpg'" />
+                                </a>
+                                <h3>
+                                    <a href="/story/2024/9/24/تغييرات-اعمليها-في-بيتك-مع-بداية-الخريف-لجذب-المشاعر-الإيجابية/6717254"> تغييرات اعمليها في بيتك مع بداية الخريف لجذب المشاعر الإيجابية </a>
+                                </h3>
+                            </div>                        <div class="col-xs-12 mor-section">
+                            <a href="/Section/%D8%A7%D9%84%D9%85%D8%B1%D8%A3%D8%A9-%D9%88%D8%A7%D9%84%D9%85%D9%86%D9%88%D8%B9%D8%A7%D8%AA/89/1">
+                                <img src="/images/more.gif" width="55px" height="16px" class="img-responsive" alt="more" title="المزيد" />
+                            </a>
+                        </div>
+                    </div>            <!--Small Sections-->                     <div class="col-xs-4 smallSections">
+                        <!--Title-->
+                        <h2>
+                            <a href="/Section/%D8%B5%D8%AD%D8%A9-%D9%88%D8%B7%D8%A8/245/1">صحة وطب</a>
+                        </h2>
+                            <!--Small One Style2-->
+                            <div class="smallSection">
+                                <a href="/story/2024/9/24/ابنك-على-ما-تربيه-ازاى-تزرعى-الثقة-في-طفلك-وتقربيه/6717327">
+                                    <img src="https://img.youm7.com/Medium/20240415010447447.jpg" width="170px" height="130px" alt="تربية الاطفال " title="تربية الاطفال " class="img-responsive" onerror="this.src='https://img.youm7.com/images/graphics/erorr-img-med.jpg'" />
+                                </a>
+                                <h3>
+                                    <a href="/story/2024/9/24/ابنك-على-ما-تربيه-ازاى-تزرعى-الثقة-في-طفلك-وتقربيه/6717327"> ابنك على ما تربيه.. ازاى تزرعى الثقة في طفلك وتقربيه منك </a>
+                                </h3>
+                            </div>                            <!--Small One Style2-->
+                            <div class="smallSection">
+                                <a href="/story/2024/9/24/علامات-تحذيرية-بالقدم-تخبرك-بضرورة-ذهابك-للطبيب/6717435">
+                                    <img src="https://img.youm7.com/Medium/201805310226182618.jpg" width="170px" height="130px" alt="الم الكاحل " title="الم الكاحل " class="img-responsive" onerror="this.src='https://img.youm7.com/images/graphics/erorr-img-med.jpg'" />
+                                </a>
+                                <h3>
+                                    <a href="/story/2024/9/24/علامات-تحذيرية-بالقدم-تخبرك-بضرورة-ذهابك-للطبيب/6717435"> علامات تحذيرية بالقدم تخبرك بضرورة ذهابك للطبيب </a>
+                                </h3>
+                            </div>                            <!--Small One Style2-->
+                            <div class="smallSection">
+                                <a href="/story/2024/9/24/الحساسية-الموسمية-6-أطعمة-تجنب-تناولها-لتخفيف-الأعراض/6717340">
+                                    <img src="https://img.youm7.com/Medium/202304301059475947.jpg" width="170px" height="130px" alt="الاطعمة المقلية " title="الاطعمة المقلية " class="img-responsive" onerror="this.src='https://img.youm7.com/images/graphics/erorr-img-med.jpg'" />
+                                </a>
+                                <h3>
+                                    <a href="/story/2024/9/24/الحساسية-الموسمية-6-أطعمة-تجنب-تناولها-لتخفيف-الأعراض/6717340"> الحساسية الموسمية.. 6 أطعمة تجنب تناولها لتخفيف الأعراض </a>
+                                </h3>
+                            </div>                            <!--Small One Style2-->
+                            <div class="smallSection">
+                                <a href="/story/2024/9/24/بعيدا-عن-الوزن-علامات-غير-شائعة-تكشف-إصابتك-باضطرابات-في/6718101">
+                                    <img src="https://img.youm7.com/Medium/20161023110337337.jpg" width="170px" height="130px" alt="الغدة الدرقية " title="الغدة الدرقية " class="img-responsive" onerror="this.src='https://img.youm7.com/images/graphics/erorr-img-med.jpg'" />
+                                </a>
+                                <h3>
+                                    <a href="/story/2024/9/24/بعيدا-عن-الوزن-علامات-غير-شائعة-تكشف-إصابتك-باضطرابات-في/6718101"> بعيدا عن الوزن.. علامات غير شائعة تكشف إصابتك باضطرابات في الغدة الدرقية  </a>
+                                </h3>
+                            </div>                            <!--Small One Style2-->
+                            <div class="smallSection">
+                                <a href="/story/2024/9/24/التوقيت-الشتوى-كيف-تظبط-نومك-مع-تأخر-الساعة/6718255">
+                                    <img src="https://img.youm7.com/Medium/202304270759445944.jpg" width="170px" height="130px" alt="التوقيت الشتوى" title="التوقيت الشتوى" class="img-responsive" onerror="this.src='https://img.youm7.com/images/graphics/erorr-img-med.jpg'" />
+                                </a>
+                                <h3>
+                                    <a href="/story/2024/9/24/التوقيت-الشتوى-كيف-تظبط-نومك-مع-تأخر-الساعة/6718255"> التوقيت الشتوى.. كيف تظبط نومك مع تأخر الساعة؟ </a>
+                                </h3>
+                            </div>                        <div class="col-xs-12 mor-section">
+                            <a href="/Section/%D8%B5%D8%AD%D8%A9-%D9%88%D8%B7%D8%A8/245/1">
+                                <img src="/images/more.gif" width="55px" height="16px" class="img-responsive" alt="more" title="المزيد" />
+                            </a>
+                        </div>
+                    </div>            <!--Small Sections-->                     <div class="col-xs-4 smallSections">
+                        <!--Title-->
+                        <h2>
+                            <a href="/Section/%D8%B9%D9%84%D9%88%D9%85-%D9%88-%D8%AA%D9%83%D9%86%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A7/328/1">علوم و تكنولوجيا</a>
+                        </h2>
+                            <!--Small One Style2-->
+                            <div class="smallSection">
+                                <a href="/story/2024/9/24/منصة-X-تعلن-تغيير-جديد-فى-خاصية-البلوك-اعرف-التفاصيل/6718335">
+                                    <img src="https://img.youm7.com/Medium/20240722120339339.jpg" width="170px" height="130px" alt="تطبيق X" title="تطبيق X" class="img-responsive" onerror="this.src='https://img.youm7.com/images/graphics/erorr-img-med.jpg'" />
+                                </a>
+                                <h3>
+                                    <a href="/story/2024/9/24/منصة-X-تعلن-تغيير-جديد-فى-خاصية-البلوك-اعرف-التفاصيل/6718335"> منصة X تعلن تغيير جديد فى خاصية &quot;البلوك&quot;.. اعرف التفاصيل </a>
+                                </h3>
+                            </div>                            <!--Small One Style2-->
+                            <div class="smallSection">
+                                <a href="/story/2024/9/24/اختراق-حساب-OpenAI-الرسمى-والترويج-لعملية-احتيال-بالعملات-المشفرة/6718491">
+                                    <img src="https://img.youm7.com/Medium/20231117030618618.jpg" width="170px" height="130px" alt="OpenAI " title="OpenAI " class="img-responsive" onerror="this.src='https://img.youm7.com/images/graphics/erorr-img-med.jpg'" />
+                                </a>
+                                <h3>
+                                    <a href="/story/2024/9/24/اختراق-حساب-OpenAI-الرسمى-والترويج-لعملية-احتيال-بالعملات-المشفرة/6718491"> اختراق حساب OpenAI الرسمى والترويج لعملية احتيال بالعملات المشفرة  </a>
+                                </h3>
+                            </div>                            <!--Small One Style2-->
+                            <div class="smallSection">
+                                <a href="/story/2024/9/24/كيف-تمت-السيطرة-على-المحتوى-المتطرف-عبر-الإنترنت-الرد-فى/6718510">
+                                    <img src="https://img.youm7.com/Medium/20240401105100510_198.jpg" width="170px" height="130px" alt="استخدام الإنترنت" title="استخدام الإنترنت" class="img-responsive" onerror="this.src='https://img.youm7.com/images/graphics/erorr-img-med.jpg'" />
+                                </a>
+                                <h3>
+                                    <a href="/story/2024/9/24/كيف-تمت-السيطرة-على-المحتوى-المتطرف-عبر-الإنترنت-الرد-فى/6718510"> كيف تمت السيطرة على المحتوى المتطرف عبر الإنترنت؟ الرد فى 6 إجابات </a>
+                                </h3>
+                            </div>                            <!--Small One Style2-->
+                            <div class="smallSection">
+                                <a href="/story/2024/9/24/تسريب-بيانات-خاصة-لأكثر-من-100-مليون-أمريكى-تفاصيل-الاختراق/6718310">
+                                    <img src="https://img.youm7.com/Medium/202005101154115411.jpg" width="170px" height="130px" alt="اختراق - أرشيفية" title="اختراق - أرشيفية" class="img-responsive" onerror="this.src='https://img.youm7.com/images/graphics/erorr-img-med.jpg'" />
+                                </a>
+                                <h3>
+                                    <a href="/story/2024/9/24/تسريب-بيانات-خاصة-لأكثر-من-100-مليون-أمريكى-تفاصيل-الاختراق/6718310"> تسريب بيانات خاصة لأكثر من 100 مليون أمريكى.. تفاصيل الاختراق  </a>
+                                </h3>
+                            </div>                            <!--Small One Style2-->
+                            <div class="smallSection">
+                                <a href="/story/2024/9/24/لحظة-وصول-رواد-الفضاء-وكبسولة-مهمة-SpaceX-موقع-الإطلاق-فى/6718317">
+                                    <img src="https://img.youm7.com/Medium/20240924015806586.jpg" width="170px" height="130px" alt="وصول رواد الفضاء " title="وصول رواد الفضاء " class="img-responsive" onerror="this.src='https://img.youm7.com/images/graphics/erorr-img-med.jpg'" />
+                                </a>
+                                <h3>
+                                    <a href="/story/2024/9/24/لحظة-وصول-رواد-الفضاء-وكبسولة-مهمة-SpaceX-موقع-الإطلاق-فى/6718317"> لحظة وصول رواد الفضاء وكبسولة مهمة SpaceX موقع الإطلاق فى فلوريدا ..صور </a>
+                                </h3>
+                            </div>                        <div class="col-xs-12 mor-section">
+                            <a href="/Section/%D8%B9%D9%84%D9%88%D9%85-%D9%88-%D8%AA%D9%83%D9%86%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A7/328/1">
+                                <img src="/images/more.gif" width="55px" height="16px" class="img-responsive" alt="more" title="المزيد" />
+                            </a>
+                        </div>
+                    </div>            <!--Small Sections-->                     <div class="col-xs-4 smallSections">
+                        <!--Title-->
+                        <h2>
+                            <a href="/Section/%D8%AD%D9%8A%D8%A7%D8%A9-%D9%83%D8%B1%D9%8A%D9%85%D8%A9/357/1">حياة كريمة</a>
+                        </h2>
+                            <!--Small One Style2-->
+                            <div class="smallSection">
+                                <a href="/story/2024/9/24/الكشف-على-688-مواطنا-خلال-قافلة-جامعة-القناة-فى-فايد/6718047">
+                                    <img src="https://img.youm7.com/Medium/202409241129582958.jpg" width="170px" height="130px" alt="جانب من القافلة" title="جانب من القافلة" class="img-responsive" onerror="this.src='https://img.youm7.com/images/graphics/erorr-img-med.jpg'" />
+                                </a>
+                                <h3>
+                                    <a href="/story/2024/9/24/الكشف-على-688-مواطنا-خلال-قافلة-جامعة-القناة-فى-فايد/6718047"> الكشف على 688 مواطنا خلال قافلة جامعة القناة فى فايد بالإسماعيلية </a>
+                                </h3>
+                            </div>                            <!--Small One Style2-->
+                            <div class="smallSection">
+                                <a href="/story/2024/9/23/حياة-كريمة-فحص-1200-حالة-فى-بنى-سويف-وتقديم-3300/6716865">
+                                    <img src="https://img.youm7.com/Medium/202409231122512251.jpg" width="170px" height="130px" alt="جانب من القافلة" title="جانب من القافلة" class="img-responsive" onerror="this.src='https://img.youm7.com/images/graphics/erorr-img-med.jpg'" />
+                                </a>
+                                <h3>
+                                    <a href="/story/2024/9/23/حياة-كريمة-فحص-1200-حالة-فى-بنى-سويف-وتقديم-3300/6716865"> حياة كريمة.. فحص 1200 حالة فى بنى سويف وتقديم 3300 خدمة طبية بالمجان </a>
+                                </h3>
+                            </div>                            <!--Small One Style2-->
+                            <div class="smallSection">
+                                <a href="/story/2024/9/23/الأبنية-التعليمية-بالمنوفية-تسليم-37-مدرسة-جديدة-بإجمالى-538-فصلا/6715110">
+                                    <img src="https://img.youm7.com/Medium/202409210511561156.jpg" width="170px" height="130px" alt="المهندسة وفاء صبحى مدير عام هيئة الأبنية التعليمية" title="المهندسة وفاء صبحى مدير عام هيئة الأبنية التعليمية" class="img-responsive" onerror="this.src='https://img.youm7.com/images/graphics/erorr-img-med.jpg'" />
+                                </a>
+                                <h3>
+                                    <a href="/story/2024/9/23/الأبنية-التعليمية-بالمنوفية-تسليم-37-مدرسة-جديدة-بإجمالى-538-فصلا/6715110"> الأبنية التعليمية بالمنوفية: تسليم 37 مدرسة جديدة بإجمالى 538 فصلا دراسيا </a>
+                                </h3>
+                            </div>                            <!--Small One Style2-->
+                            <div class="smallSection">
+                                <a href="/story/2024/9/22/القومى-للمرأة-بأسوان-نعمل-على-تمكين-المرأة-اقتصاديا-بقرى-حياة/6715234">
+                                    <img src="https://img.youm7.com/Medium/20240921061504154.jpg" width="170px" height="130px" alt="مداخلة الدكتورة هدى مصطفى " title="مداخلة الدكتورة هدى مصطفى " class="img-responsive" onerror="this.src='https://img.youm7.com/images/graphics/erorr-img-med.jpg'" />
+                                </a>
+                                <h3>
+                                    <a href="/story/2024/9/22/القومى-للمرأة-بأسوان-نعمل-على-تمكين-المرأة-اقتصاديا-بقرى-حياة/6715234"> القومى للمرأة بأسوان: نعمل على تمكين المرأة اقتصاديا بقرى &quot;حياة كريمة&quot; </a>
+                                </h3>
+                            </div>                            <!--Small One Style2-->
+                            <div class="smallSection">
+                                <a href="/story/2024/9/21/جهود-لا-تتوقف-لمبادرة-حياة-كريمة-فى-محافظات-الصعيد-تعرف/6713101">
+                                    <img src="https://img.youm7.com/Medium/202309181225152515.jpg" width="170px" height="130px" alt="مبادرة حياة كريمة" title="مبادرة حياة كريمة" class="img-responsive" onerror="this.src='https://img.youm7.com/images/graphics/erorr-img-med.jpg'" />
+                                </a>
+                                <h3>
+                                    <a href="/story/2024/9/21/جهود-لا-تتوقف-لمبادرة-حياة-كريمة-فى-محافظات-الصعيد-تعرف/6713101"> جهود لا تتوقف لمبادرة حياة كريمة فى محافظات الصعيد.. تعرف على التفاصيل </a>
+                                </h3>
+                            </div>                        <div class="col-xs-12 mor-section">
+                            <a href="/Section/%D8%AD%D9%8A%D8%A7%D8%A9-%D9%83%D8%B1%D9%8A%D9%85%D8%A9/357/1">
+                                <img src="/images/more.gif" width="55px" height="16px" class="img-responsive" alt="more" title="المزيد" />
+                            </a>
+                        </div>
+                    </div></div>
+
+                    
+					
+				
+                </div>
+                <!--Left Content-->
+                <aside class="col-xs-4  left-Content">
+                                     <!--Adv-->
+            <div class="midAdv-cont midAdv-cont">
+              <!-- /21823462148/Youm7-MPU-HP-2 -->
+<div id='div-gpt-ad-1559748730463-0'>
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1559748730463-0'); });
+</script>
+</div>
+            </div>
+    <h2>
+        <a href="#" rel="nofollow">مختارات اليوم السابع</a>
+    </h2>
+    <div class="margin-top">
+                <p><a href="https://www.youm7.com/6718544" target="_blank"><img src="https://img.youm7.com/PlugInImages/920242417015100.jpg" width="320px" height="300px" alt="أقوى ملحق عقارى فى الشرق الأوسط"></a></p>
+                <br>
+                <p><a href="https://www.youm7.com/Tags/Index?id=3046536&amp;tag=%D9%85%D8%AB%D9%84%D8%AB-%D8%AA%D8%AF%D9%85%D9%8A%D8%B1-%D8%A7%D9%84%D8%B4%D8%B9%D9%88%D8%A8" target="_blank"><img src="https://img.youm7.com/PlugInImages/9202419165146286.jpg" width="320px" height="300px" alt="مثلث تدمير الشعوب"></a></p>
+                <br>
+                <p><a href="https://www.youm7.com/Tags/Index?id=2114840&amp;tag=%D8%A7%D8%AA%D9%83%D9%84%D9%85-%D8%B9%D8%B1%D8%A8%D9%89" target="_blank"><img src="https://img.youm7.com/PlugInImages/92024191601143.jpg" width="320px" height="300px" alt="اتكلم عربى"></a></p>
+                <br>
+                <p><a href="https://www.youm7.com/6715963" target="_blank"><img src="https://img.youm7.com/PlugInImages/9202422141529503.jpg" width="320px" height="300px" alt="نتيجة تنسيق الثانوية الأزهرية 2024"></a></p>
+                <br>
+                <p><a href="https://www.youm7.com/Tags/Index?id=3032190&amp;tag=%D9%85%D8%A8%D8%A7%D8%AF%D8%B1%D8%A9-%D8%A8%D8%AF%D8%A7%D9%8A%D8%A9" target="_blank"><img src="https://img.youm7.com/PlugInImages/9202417164233350.jpg" width="320px" height="300px" alt="مبادرة بداية"></a></p>
+                <br>
+                <p><a href="https://www.youm7.com/Tags/Index?id=3041978&amp;tag=%D9%85%D8%AD%D8%A7%D9%81%D8%B8%D8%A7%D8%AA-%D8%A8%D9%84%D8%AF%D9%86%D8%A7	" target="_blank"><img src="https://img.youm7.com/PlugInImages/92024181584879.jpg" width="320px" height="300px" alt="محافظات بلدنا.. طوف وشوف	"></a></p>
+                <br>
+                <p><a href="https://www.youm7.com/6612189" target="_blank"><img src="https://img.youm7.com/PlugInImages/6202417193731742.jpg" width="320px" height="300px" alt="قناة واتساب اليوم السابع"></a></p>
+                <br>
+                <p><a href="https://www.youm7.com/Tags/Index?id=2627063&amp;tag=%D8%A3%D8%AE%D9%84%D8%A7%D9%82%D9%86%D8%A7-%D8%A7%D9%84%D8%AC%D9%85%D9%8A%D9%84%D8%A9" target="_blank"><img src="https://img.youm7.com/PlugInImages/420242923502222.jpg" width="320px" height="300px" alt="أخلاقنا الجميلة"></a></p>
+                <br>
+                <p><a href="https://www.youm7.com/Tags/Index?id=22&amp;tag=%D8%BA%D8%B2%D8%A9" target="_blank"><img src="https://img.youm7.com/PlugInImages/7202416213631718.jpg" width="320px" height="300px" alt="غزة"></a></p>
+                <br>
+                <p><a href="https://www.youm7.com/Tags/Index?id=2765052&amp;tag=%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9-%D8%AA%D8%B5%D9%86%D8%B9-%D8%A7%D9%84%D9%88%D8%B9%D9%89" target="_blank"><img src="https://img.youm7.com/PlugInImages/520238131916781.jpg" width="320px" height="300px" alt="المتحدة تصنع الوعى"></a></p>
+                <br>
+    </div>
+        <div class="container writersCOnt">
+            <h2>
+    <a href="/Editor/Alleditors">كتاب و أراء</a>
+</h2>
+    <div class="col-xs-6 oneWriter">
+        <a href="/story/2024/9/24/الثقافة-المصرية-رؤي-للمستقبل-5-–-7/6718261" class="writerImg">
+            <img src="https://img.youm7.com/Editors/1932.jpg"  width="70px" height="90px" alt="خالد عزب" title="خالد عزب" class="img-responsive" />
+        </a>
+        <div class="writerInfo">
+            <h4>
+                <a href="/Editor/Editor/1932">خالد عزب</a>
+            </h4>
+            <h3>
+                <a href="/story/2024/9/24/الثقافة-المصرية-رؤي-للمستقبل-5-–-7/6718261">الثقافة المصرية .. رؤي للمستقبل ( 5 – 7 )</a>
+            </h3>
+        </div>
+    </div>
+    <div class="col-xs-6 oneWriter">
+        <a href="/story/2024/9/24/اللغة-العربية-بين-التواصل-الاجتماعى-وتحدى-الهوية/6718336" class="writerImg">
+            <img src="https://img.youm7.com/Editors/1846.jpg"  width="70px" height="90px" alt="حنان يوسف" title="حنان يوسف" class="img-responsive" />
+        </a>
+        <div class="writerInfo">
+            <h4>
+                <a href="/Editor/Editor/1846">حنان يوسف</a>
+            </h4>
+            <h3>
+                <a href="/story/2024/9/24/اللغة-العربية-بين-التواصل-الاجتماعى-وتحدى-الهوية/6718336">اللغة العربية بين التواصل الاجتماعى وتحدى الهوية</a>
+            </h3>
+        </div>
+    </div>
+    <div class="col-xs-6 oneWriter">
+        <a href="/story/2024/9/24/رصاصة-مُمانعة-فى-بندقية-صهيونية-لعبة-الاستنزاف-وأثرها-على-عقيدة/6717840" class="writerImg">
+            <img src="https://img.youm7.com/Editors/1223.jpg"  width="70px" height="90px" alt="حازم حسين" title="حازم حسين" class="img-responsive" />
+        </a>
+        <div class="writerInfo">
+            <h4>
+                <a href="/Editor/Editor/1223">حازم حسين</a>
+            </h4>
+            <h3>
+                <a href="/story/2024/9/24/رصاصة-مُمانعة-فى-بندقية-صهيونية-لعبة-الاستنزاف-وأثرها-على-عقيدة/6717840">رصاصة مُمانعة فى بندقية صهيونية.. لعبة الاستنزاف وأثرها على عقيدة إسرائيل القتالية</a>
+            </h3>
+        </div>
+    </div>
+    <div class="col-xs-6 oneWriter">
+        <a href="/story/2024/9/24/الوعي-وترسيخ-الهوية-المصرية/6718121" class="writerImg">
+            <img src="https://img.youm7.com/Editors/1791.jpg"  width="70px" height="90px" alt="حازم الجندى" title="حازم الجندى" class="img-responsive" />
+        </a>
+        <div class="writerInfo">
+            <h4>
+                <a href="/Editor/Editor/1791">حازم الجندى</a>
+            </h4>
+            <h3>
+                <a href="/story/2024/9/24/الوعي-وترسيخ-الهوية-المصرية/6718121">الوعي وترسيخ الهوية المصرية </a>
+            </h3>
+        </div>
+    </div>
+    <div class="col-xs-6 oneWriter">
+        <a href="/story/2024/9/24/الحقيقة-والشائعات-والوعى-فى-أسوان-بدون-تهوين-أو-تهويل/6717821" class="writerImg">
+            <img src="https://img.youm7.com/Editors/112.jpg"  width="70px" height="90px" alt="أكرم القصاص" title="أكرم القصاص" class="img-responsive" />
+        </a>
+        <div class="writerInfo">
+            <h4>
+                <a href="/Editor/Editor/112">أكرم القصاص</a>
+            </h4>
+            <h3>
+                <a href="/story/2024/9/24/الحقيقة-والشائعات-والوعى-فى-أسوان-بدون-تهوين-أو-تهويل/6717821">الحقيقة والشائعات والوعى فى أسوان بدون تهوين أو تهويل </a>
+            </h3>
+        </div>
+    </div>
+    <div class="col-xs-6 oneWriter">
+        <a href="/story/2024/9/24/مصر-والسعودية-خطي-ثابتة-نحو-مستقبل-أكثر-ازدهارًا/6718091" class="writerImg">
+            <img src="https://img.youm7.com/Editors/1519.jpg"  width="70px" height="90px" alt="شيريهان المنيرى" title="شيريهان المنيرى" class="img-responsive" />
+        </a>
+        <div class="writerInfo">
+            <h4>
+                <a href="/Editor/Editor/1519">شيريهان المنيرى</a>
+            </h4>
+            <h3>
+                <a href="/story/2024/9/24/مصر-والسعودية-خطي-ثابتة-نحو-مستقبل-أكثر-ازدهارًا/6718091">مصر والسعودية خطي ثابتة نحو مستقبل أكثر ازدهارًا</a>
+            </h3>
+        </div>
+    </div>
+<div class="col-xs-12 mor-section">
+    <a href="/Editor/Alleditors">
+        <img title=" المزيد" width="55px" height="16px" alt="more" class="img-responsive" src="/images/more.gif">
+    </a>
+</div>
+
+        </div>
+    <div class="albums-youm7">
+        <h2>
+            <a href="/البومات-اليوم-السابع-291">
+                ألبومات اليوم السابع
+            </a>
+        </h2>
+        <div class="leftSideThemes">
+
+            <div class="margin-top">
+                    <div class="smallNews">
+                        <div class="smallNewsArea">
+                            
+                            <a class="mostImgNew" href="https://www.youm7.com/6717412" target="_blank">
+                                <img src="https://img.youm7.com/PlugInImages/9202424124718656.jpg" width="345px" height="311px" alt="مدينة دهب جنة الله فى أرض جنوب سيناء">
+                            </a>
+                        </div>
+                    </div>
+                    <div class="smallNews">
+                        <div class="smallNewsArea">
+                            
+                            <a class="mostImgNew" href="https://www.youm7.com/6718574" target="_blank">
+                                <img src="https://img.youm7.com/PlugInImages/9202424173051177.jpg" width="345px" height="311px" alt="طراز معمارى فريد.. قصر شحاته سليم أهم المزارات السياحية بالسويس">
+                            </a>
+                        </div>
+                    </div>
+                    <div class="smallNews">
+                        <div class="smallNewsArea">
+                            
+                            <a class="mostImgNew" href="https://www.youm7.com/6717968" target="_blank">
+                                <img src="https://img.youm7.com/PlugInImages/920242413227617.jpg" width="345px" height="311px" alt="محافظ الجيزة ووكيل وزارة التعليم بالجيزة يشاركون طلاب مدرسة السعيدية طابور الصباح">
+                            </a>
+                        </div>
+                    </div>
+                    <div class="smallNews">
+                        <div class="smallNewsArea">
+                            
+                            <a class="mostImgNew" href="https://www.youm7.com/6717245" target="_blank">
+                                <img src="https://img.youm7.com/PlugInImages/92024246142393.jpg" width="345px" height="311px" alt="بالمراكب الشراعية والفلوكة.. الرحلات النيلية فى أسوان سحر لا يقاوم">
+                            </a>
+                        </div>
+                    </div>
+            </div>
+        </div>
+    </div>
+
+    <div id="polls">
+        <div class="title">
+            <div class="titleArea">
+                <h2>
+                    استطلاع رأى
+                </h2>
+            </div>
+        </div>
+        <div id="pollsBox">
+            <div id="pollsArea">
+                <h5>هل تؤيد مطالب تكثيف حملات التوعية بخطورة ظاهرة العنف الأسرى؟</h5>
+                <div class="pollscontainer">
+                    <div id="pollsOptions">
+                                <div class="pollsOption">
+                                    <input type="radio" name="polls" value="8635" /><span>نعم</span>
+                                </div>
+                                <div class="pollsOption">
+                                    <input type="radio" name="polls" value="8636" /><span>لا</span>
+                                </div>
+                    </div>
+                </div>
+                <div id="pollsButtons">
+                    <div id="voteButton">
+                        <input type="button" value="التصويت" onclick="submitpoll1();" />
+                    </div>
+                    <div id="resultsButton">
+                        <input type="button" value="النتائج" onclick="checkall11();" />
+                    </div>
+                    <div id="backButton" style="display: none;">
+                        <input type="button" value="الرجوع" onclick="fnBack();" />
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+<script src="/Scripts/jquery.cookie.js" type="text/javascript"></script>
+<script type="text/javascript">
+    function submitpoll1()
+    {
+        
+        var optionid = '';
+
+        optionid =  $('input:radio[name=polls]:checked').val();
+        if (optionid.toLocaleLowerCase()=='undefined') {
+            return false;
+        }
+
+            if(optionid != '' && $.cookie('Cookie'+4812+'') == null)
+            {
+        var x= 4812;
+        $.ajax({
+            type: "GET",
+            url: '/Home/SubmitPoll?PollID='+x+'&OptionID='+optionid+'',
+            contentType: "html/text",
+            dataType: "html",
+            cache: false,
+            success: function (msg) {
+          
+                $(".pollscontainer").append(msg);
+
+                $('#pollsOptions').hide();
+               // $('#backButton').show();
+                $('#resultsButton').hide();
+                $('#voteButton').hide();
+                $("#pollsResult").show();
+
+
+                     $.cookie('Cookie' + 4812 + '', '1', { expires: 1 });
+
+            }
+        });
+
+
+            }
+
+    }
+
+    function checkall11() {
+
+
+        $.ajax({
+            type: "GET",
+            url: '/Home/GetPollResults?PollID='+4812+'',
+            contentType: "html/text",
+            dataType: "html",
+            cache: false,
+            success: function (msg) {
+                $(".pollscontainer").append(msg);
+                $('#backButton,#pollsResult:last').show();
+                $('#resultsButton').hide();
+                $('#voteButton,#pollsOptions').hide();
+
+            }
+        });
+
+
+
+
+    }
+
+
+
+    function fnBack() {
+
+
+        $("#pollsOptions,#voteButton,#resultsButton").show();
+        $("#pollsResult,#backButton").hide();
+
+
+    }
+
+
+</script>
+
+        <div class="container most-read">
+            <ul class="nav nav-tabs">
+                <li class="active"><a data-toggle="tab" href=".most-read" rel="nofollow">الأكثر قراءة</a></li>
+                <li><a data-toggle="tab" href=".most-commented" rel="nofollow">اليوم السابع Trending</a></li>
+            </ul>
+            <div class="tab-content">
+                <!-- -->
+                <div class="most-read tab-pane fade in active">
+                    
+    <h3>
+        <a href="/story/2024/9/24/حسام-عاشور-لـ-اليوم-السابع-حكم-فضيحة-إينرامو-اعترف-بحصوله/6718526">  حسام عاشور لـ اليوم السابع: حكم فضيحة إينرامو اعترف بحصوله على رشوة ضد الأهلى </a>
+    </h3>
+    <h3>
+        <a href="/story/2024/9/24/علا-الشافعي-تُهدي-حسام-عاشور-درع-اليوم-السابع-صور/6718360">  علا الشافعي تُهدي حسام عاشور درع &quot;اليوم السابع&quot;.. صور </a>
+    </h3>
+    <h3>
+        <a href="/story/2024/9/24/بايدن-يوجه-رسالة-للسودانيين-أوقفوا-الحرب-أوقفوا-تدمير-بلادكم/6718589">  بايدن يوجه رسالة للسودانيين: أوقفوا الحرب.. أوقفوا تدمير بلادكم </a>
+    </h3>
+    <h3>
+        <a href="/story/2024/9/24/موعد-مباراة-ريال-مدريد-ضد-ألافيس-فى-الدورى-الإسبانى-والقناة/6716830">  موعد مباراة ريال مدريد ضد ألافيس فى الدورى الإسبانى والقناة الناقلة </a>
+    </h3>
+    <h3>
+        <a href="/story/2024/9/24/وزير-الصحة-اللبنانى-558-شهيدا-بينهم-50-طفلا-و1835-جريحا/6718350">  وزير الصحة اللبنانى: 558 شهيدا بينهم 50 طفلا و1835 جريحا جراء غارات إسرائيل </a>
+    </h3>
+    <h3>
+        <a href="/story/2024/9/24/برغم-القانون-الحلقة-8-مواجهة-بين-محمود-وأكرم-تكشف-أسرار/6718062">  برغم القانون الحلقة 8.. مواجهة بين محمود وأكرم تكشف أسرار الماضى </a>
+    </h3>
+    <h3>
+        <a href="/story/2024/9/24/المحطة-الأخيرة-واقعة-دهس-الفنان-عباس-أبو-الحسن-سيدتين-تنتهى/6717765">  المحطة الأخيرة.. واقعة دهس الفنان عباس أبو الحسن سيدتين تنتهى بالتصالح </a>
+    </h3>
+    <h3>
+        <a href="/story/2024/9/24/حيثيات-حبس-عصام-صاصا-بالتزوير-استخرج-توكيلا-داخل-مصر-أثناء/6717887">  حيثيات حبس عصام صاصا بالتزوير.. استخرج توكيلا داخل مصر أثناء وجوده بدبى </a>
+    </h3>
+    <h3>
+        <a href="/story/2024/9/24/دونجا-جاهز-لقيادة-وسط-الزمالك-أمام-الأهلى-فى-السوبر/6718067">  دونجا جاهز لقيادة وسط الزمالك أمام الأهلى فى السوبر </a>
+    </h3>
+    <h3>
+        <a href="/story/2024/9/24/فيفا-يخطر-الأهلى-بلائحة-ومكافآت-بطولة-إنتركونتيننتال-قبل-مواجهة-العين/6718081">  فيفا يخطر الأهلى بلائحة ومكافآت بطولة إنتركونتيننتال قبل مواجهة العين </a>
+    </h3>
+    <h3>
+        <a href="/story/2024/9/24/انفراجة-فى-الإسماعيلى-بشأن-أزمة-إيقاف-القيد/6718043">  انفراجة فى الإسماعيلى بشأن أزمة إيقاف القيد </a>
+    </h3>
+    <h3>
+        <a href="/story/2024/9/24/ليفربول-يسعى-لمكافأة-لويس-دياز-بعد-بدايته-الرائعة/6717989">  ليفربول يسعى لمكافأة لويس دياز بعد بدايته الرائعة </a>
+    </h3>
+    <h3>
+        <a href="/story/2024/9/24/وزارة-التعليم-تعلن-وظائف-بمدارس-المتفوقين-فى-العلوم-والتكنولوجيا/6718061">  وزارة التعليم تعلن وظائف بمدارس المتفوقين فى العلوم والتكنولوجيا </a>
+    </h3>
+    <h3>
+        <a href="/story/2024/9/24/ماركا-فرانس-فوتبول-أخبرت-فينيسيوس-جونيور-بحصد-الكرة-الذهبية-2024/6717930">  ماركا: فرانس فوتبول أخبرت فينيسيوس جونيور بحصد الكرة الذهبية 2024 </a>
+    </h3>
+    <h3>
+        <a href="/story/2024/9/24/قبل-أيام-على-تنحيه-كيشيدا-يتعهد-لزيلينسكى-باستمرار-دعم-اليابان/6717853">  قبل أيام على تنحيه.. كيشيدا يتعهد لزيلينسكى باستمرار دعم اليابان لأوكرانيا </a>
+    </h3>
+    <h3>
+        <a href="/story/2024/9/24/مديريات-التعليم-تفعيل-مجموعات-الدعم-للطلاب-بالمدارس-كبديل-للدروس-الخصوصية/6717233">  مديريات التعليم: تفعيل مجموعات الدعم للطلاب بالمدارس كبديل للدروس الخصوصية </a>
+    </h3>
+    <h3>
+        <a href="/story/2024/9/24/مدرسة-السعيدية-الثانوية-بالجيزة-تخصص-فقرة-بالإذاعة-المدرسية-عن-مبادرة/6717832">  مدرسة السعيدية الثانوية بالجيزة تخصص فقرة بالإذاعة المدرسية عن مبادرة بداية </a>
+    </h3>
+    <h3>
+        <a href="/story/2024/9/24/أسرع-10-لاعبين-وصولا-لـ100-هدف-فى-أوروبا-بعد-إنجاز/6716834">  أسرع 10 لاعبين وصولا لـ100 هدف فى أوروبا بعد إنجاز هالاند </a>
+    </h3>
+    <h3>
+        <a href="/story/2024/9/24/أوهمتهم-بفوائد-كبيرة-اعترافات-مستريحة-العقارات-بالنصب-على-المواطنين/6717069">  &quot;أوهمتهم بفوائد كبيرة&quot;.. اعترافات مستريحة العقارات بالنصب على المواطنين </a>
+    </h3>
+    <h3>
+        <a href="/story/2024/9/24/الزمالك-يفاوض-الجزائرى-سفيان-فيجولى/6716989">  الزمالك يفاوض الجزائرى سفيان فيجولى </a>
+    </h3>
+
+                </div>
+                <!-- -->
+                <div class="most-commented tab-pane fade">
+                            <h3 class="TrendingNewBlock">
+            <a href="/story/2024/9/24/تليجرام-يقدم-بيانات-مستخدميه-للشرطة-فى-هذه-الحالة/6718311">  تليجرام يقدم بيانات مستخدميه للشرطة.. فى هذه الحالة </a>
+        </h3>
+        <h3 class="TrendingNewBlock">
+            <a href="/story/2024/9/24/الطاهرى-طاقم-القاهرة-الإخبارية-فى-بيروت-يوزع-المياه-لنازحى-الجنوب/6718542">  الطاهرى: طاقم &quot;القاهرة الإخبارية&quot; فى بيروت يوزع المياه لنازحى الجنوب.. فيديو </a>
+        </h3>
+        <h3 class="TrendingNewBlock">
+            <a href="/story/2024/9/24/بلاغ-جديد-ضد-صلاح-التيجانى-يتهمه-بتزوير-شهادة-نسبه-لنقابة/6718366">  بلاغ جديد ضد صلاح التيجانى يتهمه بتزوير شهادة نسبه لنقابة الأشراف </a>
+        </h3>
+        <h3 class="TrendingNewBlock">
+            <a href="/story/2024/9/24/الرئيس-السيسى-يوجه-بتعزيز-الأداء-التنموى-والسياحى-لجنوب-سيناء-إنفوجراف/6718413">  الرئيس السيسى يوجه بتعزيز الأداء التنموى والسياحى لجنوب سيناء.. إنفوجراف </a>
+        </h3>
+        <h3 class="TrendingNewBlock">
+            <a href="/story/2024/9/24/رئيس-الوزراء-الدولة-المصرية-حريصة-على-زيادة-الصادرات-لسد-الفجوة/6718521">  رئيس الوزراء: الدولة المصرية حريصة على زيادة الصادرات لسد الفجوة الدولارية </a>
+        </h3>
+        <h3 class="TrendingNewBlock">
+            <a href="/story/2024/9/24/ابنك-على-ما-تربيه-ازاى-تزرعى-الثقة-في-طفلك-وتقربيه/6717327">  ابنك على ما تربيه.. ازاى تزرعى الثقة في طفلك وتقربيه منك </a>
+        </h3>
+        <h3 class="TrendingNewBlock">
+            <a href="/story/2024/9/24/الزراعة-تعلن-إطلاق-منافذ-متحركة-لطرح-بيض-المائدة-بسعر-150/6718162">  الزراعة تعلن إطلاق منافذ متحركة لطرح بيض المائدة بسعر  150 جنيها للطبق  </a>
+        </h3>
+        <h3 class="TrendingNewBlock">
+            <a href="/story/2024/9/24/وزير-الخارجية-المياه-قضية-أمن-قومى-ولا-تهاون-أو-تساهل/6718111">  وزير الخارجية: المياه قضية أمن قومى ولا تهاون أو تساهل أو تنازل بشأنها </a>
+        </h3>
+        <h3 class="TrendingNewBlock">
+            <a href="/story/2024/9/24/الأقمار-الصناعية-أجواء-حارة-رطبة-وأعلى-درجات-متوقعة-بالقاهرة-32/6717951">  الأقمار الصناعية: أجواء حارة رطبة وأعلى درجات متوقعة بالقاهرة 32 درجة </a>
+        </h3>
+        <h3 class="TrendingNewBlock">
+            <a href="/story/2024/9/24/بروتوكول-تعاون-بين-هيئة-الاستثمار-والشركة-المتحدة-للتوعية-والترويج-للاستثمار/6717935">  بروتوكول تعاون بين هيئة الاستثمار والشركة المتحدة للتوعية والترويج للاستثمار بمصر </a>
+        </h3>
+        <h3 class="TrendingNewBlock">
+            <a href="/story/2024/9/24/إحالة-دعوى-وقف-قرار-سحب-ترخيص-فيلم-الملحد-لهيئة-المفوضين/6718044">  إحالة دعوى وقف قرار سحب ترخيص فيلم الملحد لهيئة المفوضين </a>
+        </h3>
+        <h3 class="TrendingNewBlock">
+            <a href="/story/2024/9/24/التعليم-توضح-تفاصيل-تنفيذ-الواجبات-المنزلية-والتقييمات-الأسبوعية-للطلاب/6717866">  التعليم توضح تفاصيل تنفيذ الواجبات المنزلية والتقييمات الأسبوعية للطلاب  </a>
+        </h3>
+        <h3 class="TrendingNewBlock">
+            <a href="/story/2024/9/24/واجبات-وحقوق-ومحظورات-الدليل-الكامل-لعام-جديد-داخل-الحرم-الجامعى/6718028">  واجبات وحقوق ومحظورات.. الدليل الكامل لعام جديد داخل الحرم الجامعى.. القائمة الكاملة لحقوق الطلاب وكيفية التسجيل بالكليات.. وخدمات صندوق التكافل الاجتماعى وكيفية الحصول على دعم المصروفات والإعانات المالية </a>
+        </h3>
+        <h3 class="TrendingNewBlock">
+            <a href="/story/2024/9/24/إدانات-واسعة-للعدوان-الغاشم-على-لبنان-جيش-الاحتلال-يعلن-ضرب/6717834">  إدانات واسعة للعدوان الغاشم على لبنان.. جيش الاحتلال يعلن ضرب 1600هدف لحزب الله خلال 24 ساعة.. 492 شهيدا بينهم 35 طفلا و1645مصابا.. فتح 90 مدرسة لإيواء النازحين.. بوريل: المنطقة على شفا حرب شاملة </a>
+        </h3>
+        <h3 class="TrendingNewBlock">
+            <a href="/story/2024/9/24/الصحة-والتعليم-أبرز-أولويات-مبادرة-&#171;بداية-جديدة-لبناء-الإنسان-المصرى&#187;/6715761">  الصحة والتعليم أبرز أولويات مبادرة &#171;بداية جديدة لبناء الإنسان المصرى&#187; </a>
+        </h3>
+        <h3 class="TrendingNewBlock">
+            <a href="/story/2024/9/24/الحكومة-تحصن-المرأة-وترفع-شعار-مكافحة-العنف-بإجراءات-حاسمة-وعقوبات/6715798">  الحكومة تحصن المرأة وترفع شعار مكافحة العنف بإجراءات حاسمة وعقوبات مشددة </a>
+        </h3>
+        <h3 class="TrendingNewBlock">
+            <a href="/story/2024/9/24/الرئيس-السيسى-يستعرض-المحاور-المختلفة-لاستراتيجية-التنمية-الشاملة-لجنوب-سيناء/6718260">  الرئيس السيسى يستعرض المحاور المختلفة لاستراتيجية التنمية الشاملة لجنوب سيناء </a>
+        </h3>
+        <h3 class="TrendingNewBlock">
+            <a href="/story/2024/9/24/وزير-العمل-توجيهات-الرئيس-السيسى-مساندة-كل-عمل-عربى-مشترك/6717861">  وزير العمل: توجيهات الرئيس السيسى مساندة كل عمل عربى مشترك للتنمية  </a>
+        </h3>
+
+                </div>
+            </div>
+        </div>
+                 <!--Adv-->
+            <div class="taboola">
+              <div id="taboola-below-homepage-thumbnails"></div>
+<script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({
+    mode: 'thumbnails-home-a',
+    container: 'taboola-below-homepage-thumbnails',
+    placement: 'Below Homepage Thumbnails',
+    target_type: 'mix'
+  });
+</script>
+            </div>
+                 <!--Adv-->
+            <div class="Adx300x600">
+              <center>
+<script async src=""https://securepubads.g.doubleclick.net/tag/js/gpt.js""></script>
+<script>
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/21823462148/Youm7-MPU-inner-Z1', [300, 600], 'div-gpt-ad-1637491736965-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+
+<!-- /21823462148/Youm7-MPU-inner-Z1 -->
+<div id='div-gpt-ad-1637491736965-0' style='min-width: 300px; min-height: 600px;'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1637491736965-0'); });
+  </script>
+</div>
+</center>
+            </div>
+
+
+
+                </aside>
+            </div>
+        </div>
+    </div>
+
+    
+    
+    <center>
+	
+
+
+
+    </center>
+    <!--Content End-->
+    <!--Up Arrow-->
+    <div class="topTop">
+        <a id="ma_link" href=".headerCont" rel="nofollow">
+            <img alt="الرجوع الى أعلى الصفحة" title="الرجوع الى أعلى الصفحة" src="https://img.youm7.com/images/graphics/Newiconyoum7/Arrow.png?2" class="img-responsive" />
+        </a>
+    </div>
+	
+	
+	
+	
+	
+	
+</main>
+
+
+
+
+    <!--Body End-->
+    <!--Footer Start-->
+    
+    
+	
+	<!-- Bill Board-->
+	 <center>
+
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-7209808242714184";
+/* Youm7-ADX-BB */
+google_ad_slot = "Youm7-ADX-BB";
+google_ad_width = 970;
+google_ad_height = 250;
+//-->
+</script>
+<script type="text/javascript"
+src="//pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+    
+</center>
+	
+    <footer class="row footer">
+        <div class="container mobile-app">
+            <div class="app-links">
+                <!--ios-->
+                <a rel="nofollow" target="_blank" href="https://itunes.apple.com/eg/app/id989792325">
+                    <img src="/images/footer/applebtn.png" width="48px" height="48px" alt="apple" title="اليوم السابع" class="img-responsive" />
+                </a>
+                <!--android-->
+                <a rel="nofollow" target="_blank" href="https://play.google.com/store/apps/details?id=com.youm7.news&amp;hl=en">
+                    <img src="/images/footer/androidbtn.png" width="48px" height="48px" alt="اندرويد" title="اليوم السابع" class="img-responsive" />
+                </a>
+                
+                <a rel="nofollow" target="_blank" href="https://appgallery.cloud.huawei.com/ag/n/app/C100093169?locale=en_US&source=appshare&subsource=C100093169">
+                    <img src="/images/footer/huaweibtn.png" width="48px" height="48px" alt="هواوى" title="هواوى" class="img-responsive" />
+                </a>
+            </div>
+        </div>
+        <div class="row footer-up">
+            <div class="container">
+                <!--Footer Menu-->
+                <div class="col-xs-8 footerMenu">
+                    <ul>
+                        <li><a href="/Section/أخبار-عاجلة/65/1"> <h2>عاجل</h2> </a></li>
+                        <li><a href="/Section/سياسة/319/1"> <h2>سياسة</h2> </a></li>
+                        <li><a href="/Section/تقارير-مصرية/97/1"> <h2>تقارير</h2> </a></li>
+                        <li><a href="/Section/حوادث/203/1"> <h2>حوادث</h2> </a></li>
+                        <li><a href="/Section/أخبار-المحافظات/296/1"> <h2>محافظات</h2> </a></li>
+                        
+                        <li><a href="/Section/تحقيقات-وملفات/12/1"> <h2>تحقيقات</h2> </a></li>
+                        <li><a href="/Section/أخبار-الرياضة/298/1"> <h2>رياضة</h2> </a></li>
+                        
+                        
+                        <li><a href="/Section/اقتصاد-وبورصة/297/1"> <h2>اقتصاد وبورصة</h2> </a></li>
+                        <li><a href="/Section/أخبار-عربية/88/1"> <h2>عرب</h2> </a></li>
+                        <li><a href="/Section/أخبار-عالمية/286/1"> <h2>عالم</h2> </a></li>
+                        <li><a href="/Section/كاريكاتير-اليوم/192/1"> <h2>كاريكاتير</h2> </a></li>
+                        <li><a href="/Section/فن/48/1"> <h2>فن</h2> </a></li>
+                        <li><a href="/Section/تليفزيون/251/1"> <h2>تليفزيون</h2> </a></li>
+                        <li><a href="/Section/ثقافة/94/1"> <h2>ثقافة</h2> </a></li>
+                        <li><a href="/Section/المرأة-والمنوعات/89/1"> <h2>مرأة و منوعات</h2> </a></li>
+                        <li><a href="/Section/صحة-وطب/245/1"> <h2>صحة</h2> </a></li>
+                        <li><a href="/Section/ألبومات-اليوم-السابع/291/1"> <h2>ألبومات</h2> </a></li>
+                        <li><a href="/Editor/Alleditors"> <h2>مقالات</h2> </a></li>
+                        <li><a href="/Section/علوم-و-تكنولوجيا/328/1"> <h2>تكنولوجيا</h2> </a></li>
+                        <li><a href="/Section/فيديو-7/355/1"><h2>فيديو 7</h2></a></li>
+                    </ul>
+                </div>
+                <div class="col-xs-4 social-footer">
+                    <a href="https://www.youm7.com" class="footer-logo">
+                        <img src="/images/footer/Logo-footer-2.png" alt="اليوم السابع" title="اليوم السابع" width="183px" height="204px" class="img-responsive" />
+                    </a>
+                    <br />
+                    <div class="newFooterMenu">
+                        <a href="/AboutUs">من نحن</a>
+                        <a href="/privacy">سياسة الخصوصية</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="footer-bottom row">
+            <div class="container copyRights">
+                <!--CopyRights-->
+                <div class="col-xs-4 ">
+                    <div class="copyright">© 2020 حقوق النشر محفوظة لـ<h1>اليوم السابع</h1></div>
+                </div>
+                <div class="col-xs-4">
+                    <div class="social-new-ico">
+                        <!--facebook-->
+                        <a rel="nofollow" target="_blank" href="https://www.facebook.com/youm7">
+                            <img src="/images/footer/Facebook-c.png" width="20px" height="20px" alt="اليوم السابع على فيس بوك" title="اليوم السابع على فيس بوك" class="img-responsive" />
+                        </a>
+                        <!--twitter-->
+                        <a rel="nofollow" target="_blank" href="https://twitter.com/youm7">
+                            <img src="/images/footer/x.png" width="20px" height="20px" alt="اليوم السابع على X" title="اليوم السابع على X" class="img-responsive" />
+                        </a>
+
+                        <!--instagram-->
+                        <a rel="nofollow" target="_blank" href="https://instagram.com/youm7">
+                            <img src="/images/footer/Instagram-c.png" width="20px" height="20px" alt="اليوم السابع على انستجرام" title="اليوم السابع على انستجرام" class="img-responsive" />
+                        </a>
+                        <!--youtube-->
+                        <a rel="nofollow" target="_blank" href="https://www.youtube.com/user/mubasheryoum7">
+                            <img src="/images/footer/Youtube-c.png" width="20px" height="20px" alt="اليوم السابع على يوتيوب" title="اليوم السابع على يوتيوب" class="img-responsive" />
+                        </a>
+                        <!--rss-->
+                        <a target="_blank" href="/rss/rss">
+                            <img src="/images/footer/RSS-c.png" width="20px" height="20px" alt="اليوم السابع RSS" title="اليوم السابع RSS" class="img-responsive" />
+                        </a>
+                        <!--ios-->
+                        <a rel="nofollow" target="_blank" href="https://itunes.apple.com/eg/app/id989792325">
+                            <img src="/images/footer/Apple-c.png" width="20px" height="20px" alt="تطبيق اليوم السابع على أبل" title="تطبيق اليوم السابع على أبل" class="img-responsive" />
+                        </a>
+                        <!--android-->
+                        <a rel="nofollow" target="_blank" href="https://play.google.com/store/apps/details?id=com.youm7.news&amp;hl=en">
+                            <img src="/images/footer/Android-c.png" width="20px" height="20px" alt="تطبيق اليوم السابع على اندرويد" title="تطبيق اليوم السابع على اندرويد" class="img-responsive" />
+                        </a>
+                        
+                        <a rel="nofollow" target="_blank" href="https://appgallery.cloud.huawei.com/ag/n/app/C100093169?locale=en_US&source=appshare&subsource=C100093169">
+                            <img src="/images/footer/huaweiicon.png" width="20px" height="20px" alt="تطبيق اليوم السابع على هواوى" title="تطبيق اليوم السابع على هواوى" class="img-responsive" />
+                        </a>
+                    </div>
+                </div>
+                <div class="col-xs-4">
+                    <div class="createdBy">
+                        
+                        <div class="clicksegypt">
+                            <p>تم التصميم والتطوير بواسطة</p>
+                            <a href="https://www.clicksegypt.net/"  target="_blank"><img src="/images/footer/clicksegypt.png" alt="clicks Egypt" width="100px" height="38px"></a>
+                            <div class="clear"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+
+
+    </footer>
+    <!--Footer End-->
+    
+	<!-- Sticky-->
+	
+	
+	
+    <script src='/Scripts/layoutScripts.js' type="text/javascript"></script>
+    <script src="/bundle/BodyScript?v=7S1evPYRNjeHyvWuXfJ2Wtryn2IPD7aCXBhQVSLzcTU1"></script>
+
+    
+    <script src='/Scripts/tickeN.min.js' type="text/javascript"></script>
+    <!-- <script src='/Scripts/adblockcheckv3.js' type="text/javascript"></script> -->
+    
+    <script src='/Scripts/js_swiper.min.js' type="text/javascript"></script>
+    
+
+  
+
+
+	<!-- Sticky Banner -->
+	
+    <script type="text/javascript">
+        $(document).ready(function () {
+            var falg1 = false;
+            var falg2 = true;
+
+            $(window).on("load", function () {
+                //HomepageCode
+                if ($("#div-gpt-ad-1560167543140-0").find('iframe[title="3rd party ad content"]').length == 1) {
+                  
+                    $(this).parent().parent().parent().css({ "display": "block" });
+                    var ced = $(window).scroll(function () {
+                        var scroll = $(window).scrollTop();
+                        if ((scroll >= 200) && (falg1 == false)) {
+                            $('#adPopBOTtOM').show();
+                            falg1 = true;
+                        } else if (scroll <= 100) {
+                            $('#adPopBOTtOM').hide();
+                        }
+                    });
+
+                    var loadsticky = function () {
+                        setTimeout(function () {
+                            $('#adPopBOTtOM').hide();
+                        }, 10000);
+                    };
+                }
+                else {
+                   
+                    $("#div-gpt-ad-1560167543140-0").parent().hide();
+                }
+            });
+            //window).load(function () {
+                //setTimeout(function () {
+                    //try {
+                        //loadsticky();
+                    //}
+                    //catch (err) {
+                        //$('#adPopBOTtOM').hide();
+                        //loadsticky();
+                    //}
+                //}, 100);
+            //});
+
+            $('#adPopBOTtOM #adPopBOTtOMClose').click(function (e) {
+                e.preventDefault();
+                $('#adPopBOTtOM').hide();
+                falg1 = true;
+            });
+        });
+    </script>
+	
+	
+	
+	
+	
+	<script>
+        $(document).ready(function () {
+            //iframe
+            var FullIframe = setInterval(function () {
+                //if leaderbord img only , image centerd
+                $("#div-gpt-ad-1559434773218-0").find('iframe').css({ "margin": "auto", "display": "block" });
+                //otpcode
+                $(".showOTP").find("#div-gpt-ad-1559434773218-0").find('iframe[title="3rd party ad content"]').css({ "width": "780px", "height": "400px", "overflow": "visible", "position": "absolute", "top": "0px", "right": "0px", "left": "0", "margin": "auto", "z-index": "3" });
+                $(".hideOTP").find("#div-gpt-ad-1559434773218-0").find('iframe[title="3rd party ad content"]').css({ "width": "728px", "height": "90px", "overflow": "visible", "position": "absolute", "top": "5px", "right": "0px", "left": "0", "margin": "auto", "z-index": "3" });
+                //$(".hideOTP").find(".optClose").parent().parent().parent().parent().css({ "width": "728px", "height": "90px", "overflow": "visible", "position": "absolute", "top": "5px", "right": "0px", "left": "0", "margin": "auto", "z-index": "3" });
+            }, 100);
+
+            setTimeout(function () {
+                clearInterval(FullIframe);
+            }, 15000);
+
+        });
+    </script>
+
+<!-- Taboola-->	
+<script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({flush: true});
+</script>
+
+</body>
+</html>

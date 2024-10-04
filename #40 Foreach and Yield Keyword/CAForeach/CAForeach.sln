@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CAForeach", "CAForeach.csproj", "{AEBEA129-36BB-4D02-B30F-022C5B1A3DBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AEBEA129-36BB-4D02-B30F-022C5B1A3DBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEBEA129-36BB-4D02-B30F-022C5B1A3DBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEBEA129-36BB-4D02-B30F-022C5B1A3DBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEBEA129-36BB-4D02-B30F-022C5B1A3DBC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D659652A-28D9-47FE-8DB8-65A3E86AD50F}
+	EndGlobalSection
+EndGlobal

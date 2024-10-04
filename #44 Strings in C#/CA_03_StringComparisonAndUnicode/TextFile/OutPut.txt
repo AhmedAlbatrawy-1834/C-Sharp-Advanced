@@ -1,0 +1,14 @@
+a
+
+̈
+--------------
+ä
+--------------
+ä
+--------------
+ä == ä  (Culture-Sensitive):True
+--------------
+ä == ä  (Ordinal):False
+--------------
+ä == ä  (Normalization ordinal):True
+--------------
